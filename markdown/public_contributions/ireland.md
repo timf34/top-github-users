@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/8/31 8:27 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/8/31 9:24 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -440,7 +440,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@connected-politics- </td>
 		<td><a href="https://twitter.com/liaoyenchieh">liaoyenchieh</a></td>
 		<td>Dublin Ireland </td>
-		<td>1141</td>
+		<td>1142</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -861,19 +861,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/tunetheweb">
-				<img src="https://avatars.githubusercontent.com/u/10931297?s=72&u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="24" alt="Avatar of tunetheweb"> tunetheweb
-			</a><br/>
-			Barry Pollard
-		</td>
-		<td>Google </td>
-		<td><a href="https://twitter.com/tunetheweb">tunetheweb</a></td>
-		<td>Cork, Ireland</td>
-		<td>729</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
 			<a href="https://github.com/gdude2002">
 				<img src="https://avatars.githubusercontent.com/u/204153?s=72&u=79c2faca5ca7a9f0e4c321a16888a3ac68926772&v=4" width="24" alt="Avatar of gdude2002"> gdude2002
 			</a><br/>
@@ -882,6 +869,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
+		<td>732</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/tunetheweb">
+				<img src="https://avatars.githubusercontent.com/u/10931297?s=72&u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="24" alt="Avatar of tunetheweb"> tunetheweb
+			</a><br/>
+			Barry Pollard
+		</td>
+		<td>Google </td>
+		<td><a href="https://twitter.com/tunetheweb">tunetheweb</a></td>
+		<td>Cork, Ireland</td>
 		<td>729</td>
 	</tr>
 	<tr>
@@ -895,7 +895,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@helperbird  </td>
 		<td><a href="https://twitter.com/robertjgabriel">robertjgabriel</a></td>
 		<td>Ireland</td>
-		<td>716</td>
+		<td>724</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -7543,19 +7543,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>573</td>
 		<td>
-			<a href="https://github.com/coogie">
-				<img src="https://avatars.githubusercontent.com/u/1271105?s=72&u=57101dc5a7b4a6899d523a8b91b36eb369f2c8df&v=4" width="24" alt="Avatar of coogie"> coogie
-			</a><br/>
-			Stephen Coogan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>574</td>
-		<td>
 			<a href="https://github.com/Bytiebytes">
 				<img src="https://avatars.githubusercontent.com/u/166951728?s=72&u=50f25a3f8cc4790bb1877a3229018867241ba862&v=4" width="24" alt="Avatar of Bytiebytes"> Bytiebytes
 			</a><br/>
@@ -7564,6 +7551,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>ʳᵉᵃᵈ ᵐʸ ⁿᵉʷ ˢᵗʳᵃʷ<br/>ᵖᵃᵍᵉ<br/>ᵖˡᵉᵃˢᵉ<br/>ᵃⁿᵈ<br/>ᵐᵃʸᵇᵉ<br/>ˡᵉᵃᵛᵉ<br/>ᵃ<br/>ᶜᵒᵐᵐᵉⁿᵗ<br/>/<br/>ᵈʳᵃʷᶦⁿᵍ<br/></td>
 		<td>No Twitter Username</td>
 		<td>Ireland!! 🇮🇪 </td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>
+			<a href="https://github.com/coogie">
+				<img src="https://avatars.githubusercontent.com/u/1271105?s=72&u=57101dc5a7b4a6899d523a8b91b36eb369f2c8df&v=4" width="24" alt="Avatar of coogie"> coogie
+			</a><br/>
+			Stephen Coogan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
 		<td>13</td>
 	</tr>
 	<tr>
