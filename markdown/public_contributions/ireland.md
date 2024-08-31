@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/8/31 6:30 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/8/31 7:21 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -180,7 +180,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3611</td>
+		<td>3612</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -284,7 +284,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/thesimplekid">thesimplekid</a></td>
 		<td>Dublin, Ireland</td>
-		<td>1691</td>
+		<td>1693</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -505,7 +505,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Senior Fee @datadog; Ex<br/>Fee<br/>@aws<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>1090</td>
+		<td>1091</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -973,7 +973,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/TTG_Emily">TTG_Emily</a></td>
 		<td>Dublin, Ireland</td>
-		<td>673</td>
+		<td>674</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1368,6 +1368,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>98</td>
 		<td>
+			<a href="https://github.com/emidiovaleretto">
+				<img src="https://avatars.githubusercontent.com/u/53981181?s=72&u=9a41ae347f26196a0e1387db2b6e787c2c1deb53&v=4" width="24" alt="Avatar of emidiovaleretto"> emidiovaleretto
+			</a><br/>
+			Emidio Valeretto
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
+		<td>470</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
 			<a href="https://github.com/cpq">
 				<img src="https://avatars.githubusercontent.com/u/601816?s=72&u=ae928b8cd7f020f7a8d2f4eadc249b75bd1ffb48&v=4" width="24" alt="Avatar of cpq"> cpq
 			</a><br/>
@@ -1377,19 +1390,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Galway, Ireland</td>
 		<td>468</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/emidiovaleretto">
-				<img src="https://avatars.githubusercontent.com/u/53981181?s=72&u=9a41ae347f26196a0e1387db2b6e787c2c1deb53&v=4" width="24" alt="Avatar of emidiovaleretto"> emidiovaleretto
-			</a><br/>
-			Emidio Valeretto
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>466</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1545,7 +1545,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Meta (@facebook) </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>394</td>
+		<td>395</td>
 	</tr>
 	<tr>
 		<td>112</td>
