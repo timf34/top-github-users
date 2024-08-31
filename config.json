@@ -1,0 +1,6 @@
+{
+  "devMode": "false",
+  "locations":[
+ { "country":  "ireland", "geoName": "Ireland", "cities": ["dublin", "galway", "cork", "waterford", "limerick", "wicklow", "meath", "louth", "limerick"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" },
+  ]
+}
