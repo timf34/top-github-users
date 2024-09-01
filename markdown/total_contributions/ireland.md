@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/9/1 1:47 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/9/1 3:01 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -116,8 +116,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10391</td>
-		<td>18015</td>
+		<td>10401</td>
+		<td>18041</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -312,8 +312,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3613</td>
-		<td>3671</td>
+		<td>3614</td>
+		<td>3672</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -2063,7 +2063,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/arp242_martin">arp242_martin</a></td>
 		<td>Ireland</td>
 		<td>802</td>
-		<td>1080</td>
+		<td>1081</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -6305,7 +6305,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
 		<td>0</td>
-		<td>173</td>
+		<td>174</td>
 	</tr>
 	<tr>
 		<td>444</td>
@@ -6576,6 +6576,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>463</td>
 		<td>
+			<a href="https://github.com/Jackojc">
+				<img src="https://avatars.githubusercontent.com/u/4932816?s=72&u=0103164f4c0c2954f3f11290183be6ff8c388396&v=4" width="24" alt="Avatar of Jackojc"> Jackojc
+			</a><br/>
+			Jack Clarke
+		</td>
+		<td>@intel </td>
+		<td>No Twitter Username</td>
+		<td>Ireland</td>
+		<td>51</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>
 			<a href="https://github.com/csknk">
 				<img src="https://avatars.githubusercontent.com/u/5287744?s=72&u=7005303bd72d4f2cd0f701e0afe1833e0e42fce6&v=4" width="24" alt="Avatar of csknk"> csknk
 			</a><br/>
@@ -6586,20 +6600,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Ireland</td>
 		<td>25</td>
 		<td>154</td>
-	</tr>
-	<tr>
-		<td>464</td>
-		<td>
-			<a href="https://github.com/Jackojc">
-				<img src="https://avatars.githubusercontent.com/u/4932816?s=72&u=0103164f4c0c2954f3f11290183be6ff8c388396&v=4" width="24" alt="Avatar of Jackojc"> Jackojc
-			</a><br/>
-			Jack Clarke
-		</td>
-		<td>@intel </td>
-		<td>No Twitter Username</td>
-		<td>Ireland</td>
-		<td>50</td>
-		<td>153</td>
 	</tr>
 	<tr>
 		<td>465</td>
@@ -6842,6 +6842,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>482</td>
 		<td>
+			<a href="https://github.com/soub4i">
+				<img src="https://avatars.githubusercontent.com/u/11523791?s=72&u=301d92facd302c4e2399c05965b3d888c631ceea&v=4" width="24" alt="Avatar of soub4i"> soub4i
+			</a><br/>
+			Abderrahim SOUBAI-ELIDRISI
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/soub4i">soub4i</a></td>
+		<td>Dublin Ireland</td>
+		<td>113</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
 			<a href="https://github.com/witnessmenow">
 				<img src="https://avatars.githubusercontent.com/u/1562562?s=72&u=10db11632471f5a9f41254e756616eebc196231a&v=4" width="24" alt="Avatar of witnessmenow"> witnessmenow
 			</a><br/>
@@ -6851,20 +6865,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>131</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
-			<a href="https://github.com/soub4i">
-				<img src="https://avatars.githubusercontent.com/u/11523791?s=72&u=301d92facd302c4e2399c05965b3d888c631ceea&v=4" width="24" alt="Avatar of soub4i"> soub4i
-			</a><br/>
-			Abderrahim SOUBAI-ELIDRISI
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/soub4i">soub4i</a></td>
-		<td>Dublin Ireland</td>
-		<td>112</td>
 		<td>131</td>
 	</tr>
 	<tr>
@@ -7332,6 +7332,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>517</td>
 		<td>
+			<a href="https://github.com/samukasmk">
+				<img src="https://avatars.githubusercontent.com/u/1859479?s=72&u=d8c028fc21221fd285e26c0b403b162a0016b4b6&v=4" width="24" alt="Avatar of samukasmk"> samukasmk
+			</a><br/>
+			Samuel Sampaio
+		</td>
+		<td>Smk Tecnologia </td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
+		<td>65</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
 			<a href="https://github.com/pzmarzly">
 				<img src="https://avatars.githubusercontent.com/u/8074163?s=72&u=e15e80a42fa395349b0d18a927074793dd35e035&v=4" width="24" alt="Avatar of pzmarzly"> pzmarzly
 			</a><br/>
@@ -7344,7 +7358,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/pallotron">
 				<img src="https://avatars.githubusercontent.com/u/508703?s=72&u=e94e07c400d335bbb6c345a4b41067bc6f7f6fff&v=4" width="24" alt="Avatar of pallotron"> pallotron
@@ -7355,20 +7369,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/pallotron">pallotron</a></td>
 		<td>Dublin</td>
 		<td>9</td>
-		<td>107</td>
-	</tr>
-	<tr>
-		<td>519</td>
-		<td>
-			<a href="https://github.com/samukasmk">
-				<img src="https://avatars.githubusercontent.com/u/1859479?s=72&u=d8c028fc21221fd285e26c0b403b162a0016b4b6&v=4" width="24" alt="Avatar of samukasmk"> samukasmk
-			</a><br/>
-			Samuel Sampaio
-		</td>
-		<td>Smk Tecnologia </td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>65</td>
 		<td>107</td>
 	</tr>
 	<tr>

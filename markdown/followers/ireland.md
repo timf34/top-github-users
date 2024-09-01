@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/1 1:47 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/1 3:01 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -2897,7 +2897,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@connected-politics- </td>
 		<td><a href="https://twitter.com/liaoyenchieh">liaoyenchieh</a></td>
 		<td>Dublin Ireland </td>
-		<td>138</td>
+		<td>137</td>
 	</tr>
 	<tr>
 		<td>216</td>
@@ -6061,6 +6061,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>459</td>
 		<td>
+			<a href="https://github.com/conorosully">
+				<img src="https://avatars.githubusercontent.com/u/36339644?s=72&u=c7d19f229345346109ab47a8b051edf52b69aa35&v=4" width="24" alt="Avatar of conorosully"> conorosully
+			</a><br/>
+			Conor O'Sullivan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/conorosullyDS">conorosullyDS</a></td>
+		<td>Dublin</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
 			<a href="https://github.com/williamkennedy">
 				<img src="https://avatars.githubusercontent.com/u/4173664?s=72&u=4ddf635c501ab512bab3ece2064afcd5f80990d3&v=4" width="24" alt="Avatar of williamkennedy"> williamkennedy
 			</a><br/>
@@ -6072,7 +6085,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/jakekgrog">
 				<img src="https://avatars.githubusercontent.com/u/10155046?s=72&u=864c1ea8569838408bc38e9ab3e96bc64cbd39a8&v=4" width="24" alt="Avatar of jakekgrog"> jakekgrog
@@ -6082,19 +6095,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Evervault </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/conorosully">
-				<img src="https://avatars.githubusercontent.com/u/36339644?s=72&u=c7d19f229345346109ab47a8b051edf52b69aa35&v=4" width="24" alt="Avatar of conorosully"> conorosully
-			</a><br/>
-			Conor O'Sullivan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/conorosullyDS">conorosullyDS</a></td>
-		<td>Dublin</td>
 		<td>77</td>
 	</tr>
 	<tr>
