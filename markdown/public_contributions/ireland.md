@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/1 5:26 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/1 6:34 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -796,6 +796,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>54</td>
 		<td>
+			<a href="https://github.com/RobertJGabriel">
+				<img src="https://avatars.githubusercontent.com/u/6218780?s=72&u=7dd3c95a59a9b54f6fb3ce833706b6e133f43e67&v=4" width="24" alt="Avatar of RobertJGabriel"> RobertJGabriel
+			</a><br/>
+			Robert James Gabriel
+		</td>
+		<td>@helperbird  </td>
+		<td><a href="https://twitter.com/robertjgabriel">robertjgabriel</a></td>
+		<td>Ireland</td>
+		<td>766</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
 			<a href="https://github.com/DarthGandalf">
 				<img src="https://avatars.githubusercontent.com/u/325092?s=72&v=4" width="24" alt="Avatar of DarthGandalf"> DarthGandalf
 			</a><br/>
@@ -805,19 +818,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland, Dublin</td>
 		<td>757</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
-			<a href="https://github.com/RobertJGabriel">
-				<img src="https://avatars.githubusercontent.com/u/6218780?s=72&u=7dd3c95a59a9b54f6fb3ce833706b6e133f43e67&v=4" width="24" alt="Avatar of RobertJGabriel"> RobertJGabriel
-			</a><br/>
-			Robert James Gabriel
-		</td>
-		<td>@helperbird  </td>
-		<td><a href="https://twitter.com/robertjgabriel">robertjgabriel</a></td>
-		<td>Ireland</td>
-		<td>756</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -7517,19 +7517,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>571</td>
 		<td>
-			<a href="https://github.com/ocanty">
-				<img src="https://avatars.githubusercontent.com/u/14853770?s=72&u=364c65652db6f65880f1c213dad063793c5db190&v=4" width="24" alt="Avatar of ocanty"> ocanty
-			</a><br/>
-			No Name
-		</td>
-		<td>@stripe </td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>572</td>
-		<td>
 			<a href="https://github.com/HoseinEmrani">
 				<img src="https://avatars.githubusercontent.com/u/1466559?s=72&u=c1702f6e1bcfcc26c3a6da721170d8b01a930d05&v=4" width="24" alt="Avatar of HoseinEmrani"> HoseinEmrani
 			</a><br/>
@@ -7537,6 +7524,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		</td>
 		<td>Nitro Software, Inc. </td>
 		<td><a href="https://twitter.com/_emrani">_emrani</a></td>
+		<td>Dublin, Ireland</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
+			<a href="https://github.com/ocanty">
+				<img src="https://avatars.githubusercontent.com/u/14853770?s=72&u=364c65652db6f65880f1c213dad063793c5db190&v=4" width="24" alt="Avatar of ocanty"> ocanty
+			</a><br/>
+			No Name
+		</td>
+		<td>@stripe </td>
+		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>13</td>
 	</tr>
