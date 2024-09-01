@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/1 5:22 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/1 6:30 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -115,7 +115,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Elastic </td>
 		<td><a href="https://twitter.com/miguelgrinberg">miguelgrinberg</a></td>
 		<td>Ireland</td>
-		<td>12418</td>
+		<td>12419</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -323,7 +323,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
-		<td>985</td>
+		<td>986</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -479,7 +479,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>592</td>
+		<td>593</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -5294,6 +5294,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>400</td>
 		<td>
+			<a href="https://github.com/xaionaro">
+				<img src="https://avatars.githubusercontent.com/u/2349376?s=72&u=134a8122e252ee1a1afeeb463998e7560a24d986&v=4" width="24" alt="Avatar of xaionaro"> xaionaro
+			</a><br/>
+			Dmitrii Okunev
+		</td>
+		<td>Meta (@facebook) </td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>
 			<a href="https://github.com/ruben1">
 				<img src="https://avatars.githubusercontent.com/u/4315770?s=72&v=4" width="24" alt="Avatar of ruben1"> ruben1
 			</a><br/>
@@ -5305,7 +5318,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/kishoreyekkanti">
 				<img src="https://avatars.githubusercontent.com/u/100275?s=72&v=4" width="24" alt="Avatar of kishoreyekkanti"> kishoreyekkanti
@@ -5318,7 +5331,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/dominykas">
 				<img src="https://avatars.githubusercontent.com/u/505619?s=72&u=2982a6cb8181f8804d7776652df91d3392addd4e&v=4" width="24" alt="Avatar of dominykas"> dominykas
@@ -5331,7 +5344,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/ancatmara">
 				<img src="https://avatars.githubusercontent.com/u/15746067?s=72&u=c6d8ab4ce64f6ea6038e674c94978d54e84b2c65&v=4" width="24" alt="Avatar of ancatmara"> ancatmara
@@ -5344,7 +5357,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/croqaz">
 				<img src="https://avatars.githubusercontent.com/u/1748317?s=72&u=724d2d503195d9b5fc32dce18e63d9f69bf727b1&v=4" width="24" alt="Avatar of croqaz"> croqaz
@@ -5357,7 +5370,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/daveearley">
 				<img src="https://avatars.githubusercontent.com/u/166798?s=72&u=2ab24c0f94ff82ee3d518e64998eb5fb489ed2cc&v=4" width="24" alt="Avatar of daveearley"> daveearley
@@ -5365,19 +5378,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 			Dave Earley
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>406</td>
-		<td>
-			<a href="https://github.com/xaionaro">
-				<img src="https://avatars.githubusercontent.com/u/2349376?s=72&u=134a8122e252ee1a1afeeb463998e7560a24d986&v=4" width="24" alt="Avatar of xaionaro"> xaionaro
-			</a><br/>
-			Dmitrii Okunev
-		</td>
-		<td>Meta (@facebook) </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>86</td>
