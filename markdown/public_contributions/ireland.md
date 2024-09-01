@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/1 8:29 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/1 9:26 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -128,7 +128,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kilkenny, Ireland</td>
-		<td>4759</td>
+		<td>4765</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -180,7 +180,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3614</td>
+		<td>3615</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -284,7 +284,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/thesimplekid">thesimplekid</a></td>
 		<td>Dublin, Ireland</td>
-		<td>1702</td>
+		<td>1706</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -492,7 +492,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Elastic </td>
 		<td><a href="https://twitter.com/miguelgrinberg">miguelgrinberg</a></td>
 		<td>Ireland</td>
-		<td>1097</td>
+		<td>1098</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -3378,7 +3378,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>National University Of Ireland<br/>Galway<br/></td>
 		<td><a href="https://twitter.com/_jimduggan">_jimduggan</a></td>
 		<td>Galway, Ireland.</td>
-		<td>128</td>
+		<td>129</td>
 	</tr>
 	<tr>
 		<td>253</td>
@@ -4033,19 +4033,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>303</td>
 		<td>
-			<a href="https://github.com/apssouza22">
-				<img src="https://avatars.githubusercontent.com/u/375001?s=72&v=4" width="24" alt="Avatar of apssouza22"> apssouza22
-			</a><br/>
-			Alexsandro Souza
-		</td>
-		<td>@deeminc </td>
-		<td>No Twitter Username</td>
-		<td>Dublin - Ireland</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>304</td>
-		<td>
 			<a href="https://github.com/samueloph">
 				<img src="https://avatars.githubusercontent.com/u/2778482?s=72&u=389037b5d44d9f53ee61280f02b9fd5a94fc624e&v=4" width="24" alt="Avatar of samueloph"> samueloph
 			</a><br/>
@@ -4054,6 +4041,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@debian @amazonlinux </td>
 		<td><a href="https://twitter.com/samueloph_">samueloph_</a></td>
 		<td>Dublin, Ireland</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
+			<a href="https://github.com/apssouza22">
+				<img src="https://avatars.githubusercontent.com/u/375001?s=72&v=4" width="24" alt="Avatar of apssouza22"> apssouza22
+			</a><br/>
+			Alexsandro Souza
+		</td>
+		<td>@deeminc </td>
+		<td>No Twitter Username</td>
+		<td>Dublin - Ireland</td>
 		<td>90</td>
 	</tr>
 	<tr>
@@ -5190,6 +5190,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>392</td>
 		<td>
+			<a href="https://github.com/Jackojc">
+				<img src="https://avatars.githubusercontent.com/u/4932816?s=72&u=0103164f4c0c2954f3f11290183be6ff8c388396&v=4" width="24" alt="Avatar of Jackojc"> Jackojc
+			</a><br/>
+			Jack Clarke
+		</td>
+		<td>@intel </td>
+		<td>No Twitter Username</td>
+		<td>Ireland</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>
 			<a href="https://github.com/ncahill89">
 				<img src="https://avatars.githubusercontent.com/u/19578961?s=72&u=a88a445561cdd5c25f8e571020a8a2f4033ebb26&v=4" width="24" alt="Avatar of ncahill89"> ncahill89
 			</a><br/>
@@ -5201,7 +5214,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/igorbrigadir">
 				<img src="https://avatars.githubusercontent.com/u/1164962?s=72&v=4" width="24" alt="Avatar of igorbrigadir"> igorbrigadir
@@ -5211,19 +5224,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Insight Centre For Data<br/>Analytics<br/></td>
 		<td><a href="https://twitter.com/IgorBrigadir">IgorBrigadir</a></td>
 		<td>University College Dublin</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>394</td>
-		<td>
-			<a href="https://github.com/Jackojc">
-				<img src="https://avatars.githubusercontent.com/u/4932816?s=72&u=0103164f4c0c2954f3f11290183be6ff8c388396&v=4" width="24" alt="Avatar of Jackojc"> Jackojc
-			</a><br/>
-			Jack Clarke
-		</td>
-		<td>@intel </td>
-		<td>No Twitter Username</td>
-		<td>Ireland</td>
 		<td>53</td>
 	</tr>
 	<tr>
@@ -9155,12 +9155,12 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>697</td>
 		<td>
-			<a href="https://github.com/dkozar">
-				<img src="https://avatars.githubusercontent.com/u/1078403?s=72&u=44a76c49b027584f9f1cecc288eeda538e2dcde6&v=4" width="24" alt="Avatar of dkozar"> dkozar
+			<a href="https://github.com/dvasiliauskas">
+				<img src="https://avatars.githubusercontent.com/u/15478409?s=72&u=04126ad172b6a932e120640c1f669cea3f4354d8&v=4" width="24" alt="Avatar of dvasiliauskas"> dvasiliauskas
 			</a><br/>
-			Danko Kozar
+			David
 		</td>
-		<td>Microsoft </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>4</td>
@@ -9168,12 +9168,12 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>698</td>
 		<td>
-			<a href="https://github.com/dvasiliauskas">
-				<img src="https://avatars.githubusercontent.com/u/15478409?s=72&u=04126ad172b6a932e120640c1f669cea3f4354d8&v=4" width="24" alt="Avatar of dvasiliauskas"> dvasiliauskas
+			<a href="https://github.com/dkozar">
+				<img src="https://avatars.githubusercontent.com/u/1078403?s=72&u=44a76c49b027584f9f1cecc288eeda538e2dcde6&v=4" width="24" alt="Avatar of dkozar"> dkozar
 			</a><br/>
-			David
+			Danko Kozar
 		</td>
-		<td>No Company</td>
+		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>4</td>
