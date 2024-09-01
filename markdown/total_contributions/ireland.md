@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/9/1 6:34 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/9/1 7:23 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -243,7 +243,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>856</td>
-		<td>4415</td>
+		<td>4419</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -396,8 +396,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/bnomei">bnomei</a></td>
 		<td>Ireland</td>
-		<td>405</td>
-		<td>2946</td>
+		<td>406</td>
+		<td>2947</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -2637,7 +2637,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>31</td>
-		<td>825</td>
+		<td>826</td>
 	</tr>
 	<tr>
 		<td>182</td>
@@ -5064,6 +5064,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>355</td>
 		<td>
+			<a href="https://github.com/No9">
+				<img src="https://avatars.githubusercontent.com/u/130940?s=72&u=f1195aa9421f8b5f1bca88d2255ac8b8dea1a24f&v=4" width="24" alt="Avatar of No9"> No9
+			</a><br/>
+			Anton Whalley
+		</td>
+		<td>Mehal Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Dublin</td>
+		<td>209</td>
+		<td>314</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
 			<a href="https://github.com/itsmunim">
 				<img src="https://avatars.githubusercontent.com/u/8603524?s=72&u=2b64c3e5713040fb1bde4cd02365500fcc88a542&v=4" width="24" alt="Avatar of itsmunim"> itsmunim
 			</a><br/>
@@ -5074,20 +5088,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Dublin</td>
 		<td>21</td>
 		<td>314</td>
-	</tr>
-	<tr>
-		<td>356</td>
-		<td>
-			<a href="https://github.com/No9">
-				<img src="https://avatars.githubusercontent.com/u/130940?s=72&u=f1195aa9421f8b5f1bca88d2255ac8b8dea1a24f&v=4" width="24" alt="Avatar of No9"> No9
-			</a><br/>
-			Anton Whalley
-		</td>
-		<td>Mehal Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Dublin</td>
-		<td>209</td>
-		<td>313</td>
 	</tr>
 	<tr>
 		<td>357</td>
