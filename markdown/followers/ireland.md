@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/1 1:28 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/1 2:22 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -323,7 +323,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
-		<td>984</td>
+		<td>985</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -8193,19 +8193,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>623</td>
 		<td>
-			<a href="https://github.com/cmjio">
-				<img src="https://avatars.githubusercontent.com/u/792149?s=72&u=197035bdd9a684131cb59bbf1e86273487d5e1f5&v=4" width="24" alt="Avatar of cmjio"> cmjio
-			</a><br/>
-			Chris Johnson
-		</td>
-		<td>Micro Focus </td>
-		<td><a href="https://twitter.com/chrismj83">chrismj83</a></td>
-		<td>Belfast, Northern Ireland</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>624</td>
-		<td>
 			<a href="https://github.com/katharinebeaumont">
 				<img src="https://avatars.githubusercontent.com/u/2380230?s=72&u=efab11ed943ff56ef098616dde707d3c5a12757c&v=4" width="24" alt="Avatar of katharinebeaumont"> katharinebeaumont
 			</a><br/>
@@ -8217,7 +8204,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/agiuliano">
 				<img src="https://avatars.githubusercontent.com/u/1260243?s=72&u=8609d979c6e99c9b268225ffea745914c03d8c17&v=4" width="24" alt="Avatar of agiuliano"> agiuliano
@@ -8230,7 +8217,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/blai">
 				<img src="https://avatars.githubusercontent.com/u/1664979?s=72&v=4" width="24" alt="Avatar of blai"> blai
@@ -8243,7 +8230,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/steveire">
 				<img src="https://avatars.githubusercontent.com/u/37486?s=72&v=4" width="24" alt="Avatar of steveire"> steveire
@@ -8256,7 +8243,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/22a">
 				<img src="https://avatars.githubusercontent.com/u/7144173?s=72&u=3533ef84ebdc0977f3fb632d022b96c54936fec3&v=4" width="24" alt="Avatar of 22a"> 22a
@@ -8269,7 +8256,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/paddycarey">
 				<img src="https://avatars.githubusercontent.com/u/164309?s=72&v=4" width="24" alt="Avatar of paddycarey"> paddycarey
@@ -8282,7 +8269,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/Brian1KB">
 				<img src="https://avatars.githubusercontent.com/u/3194202?s=72&u=59f33fc62e2a276305704dc1ab9e523a19ffca6e&v=4" width="24" alt="Avatar of Brian1KB"> Brian1KB
@@ -8295,7 +8282,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/devplayer0">
 				<img src="https://avatars.githubusercontent.com/u/1427254?s=72&u=bdd02ad9157f4dc68845d1578545d46425b3cfbc&v=4" width="24" alt="Avatar of devplayer0"> devplayer0
@@ -8308,7 +8295,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/rebeccatraceyt">
 				<img src="https://avatars.githubusercontent.com/u/71783662?s=72&u=c1cdd0344cebda89729f99ac58de241512c3707a&v=4" width="24" alt="Avatar of rebeccatraceyt"> rebeccatraceyt
@@ -8321,7 +8308,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/ivucica">
 				<img src="https://avatars.githubusercontent.com/u/477596?s=72&v=4" width="24" alt="Avatar of ivucica"> ivucica
@@ -8334,7 +8321,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/ConorSheehan1">
 				<img src="https://avatars.githubusercontent.com/u/16896053?s=72&u=191738c5cbdde582473c9b28caa33497ea24fef2&v=4" width="24" alt="Avatar of ConorSheehan1"> ConorSheehan1
@@ -8347,7 +8334,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/taebow">
 				<img src="https://avatars.githubusercontent.com/u/24938449?s=72&u=a544cf6dd66e6dd6823863166acbbd53c15ebe1f&v=4" width="24" alt="Avatar of taebow"> taebow
@@ -8357,6 +8344,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>635</td>
+		<td>
+			<a href="https://github.com/cmjio">
+				<img src="https://avatars.githubusercontent.com/u/792149?s=72&u=197035bdd9a684131cb59bbf1e86273487d5e1f5&v=4" width="24" alt="Avatar of cmjio"> cmjio
+			</a><br/>
+			Chris Johnson
+		</td>
+		<td>Micro Focus </td>
+		<td><a href="https://twitter.com/chrismj83">chrismj83</a></td>
+		<td>Belfast, Northern Ireland</td>
 		<td>59</td>
 	</tr>
 	<tr>

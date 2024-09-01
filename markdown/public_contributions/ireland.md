@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/1 1:28 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/1 2:22 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -2603,6 +2603,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>193</td>
 		<td>
+			<a href="https://github.com/conoro">
+				<img src="https://avatars.githubusercontent.com/u/586566?s=72&u=0656e52498230c2ef044e1835f229ea0398c8ff8&v=4" width="24" alt="Avatar of conoro"> conoro
+			</a><br/>
+			Conor O'Neill
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/conoro">conoro</a></td>
+		<td>Bandon, Cork, Ireland</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>194</td>
+		<td>
 			<a href="https://github.com/rconfig">
 				<img src="https://avatars.githubusercontent.com/u/20505440?s=72&u=11de83d7e13fe5bc55920e210b6e9f7d7eccb3bb&v=4" width="24" alt="Avatar of rconfig"> rconfig
 			</a><br/>
@@ -2614,7 +2627,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>209</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/Giovasdf">
 				<img src="https://avatars.githubusercontent.com/u/8549177?s=72&u=9e024e031eeb399bcea10014662e5ffea913dffa&v=4" width="24" alt="Avatar of Giovasdf"> Giovasdf
@@ -2625,19 +2638,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Limerick, Ireland</td>
 		<td>209</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/conoro">
-				<img src="https://avatars.githubusercontent.com/u/586566?s=72&u=0656e52498230c2ef044e1835f229ea0398c8ff8&v=4" width="24" alt="Avatar of conoro"> conoro
-			</a><br/>
-			Conor O'Neill
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/conoro">conoro</a></td>
-		<td>Bandon, Cork, Ireland</td>
-		<td>208</td>
 	</tr>
 	<tr>
 		<td>196</td>
