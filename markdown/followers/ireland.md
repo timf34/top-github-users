@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/1 3:26 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/1 4:30 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -141,7 +141,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sanityinc">sanityinc</a></td>
 		<td>Ireland</td>
-		<td>3104</td>
+		<td>3105</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -206,7 +206,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
-		<td>1977</td>
+		<td>1976</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -471,6 +471,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/feder-cr">
+				<img src="https://avatars.githubusercontent.com/u/85809106?s=72&u=3856599b073f377b3a5cad264598ee62fc784890&v=4" width="24" alt="Avatar of feder-cr"> feder-cr
+			</a><br/>
+			Federico
+		</td>
+		<td>Federico.elia.majo@g </td>
+		<td>No Twitter Username</td>
+		<td>Dublin</td>
+		<td>589</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
 			<a href="https://github.com/padraic">
 				<img src="https://avatars.githubusercontent.com/u/19780?s=72&v=4" width="24" alt="Avatar of padraic"> padraic
 			</a><br/>
@@ -480,19 +493,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>587</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/feder-cr">
-				<img src="https://avatars.githubusercontent.com/u/85809106?s=72&u=3856599b073f377b3a5cad264598ee62fc784890&v=4" width="24" alt="Avatar of feder-cr"> feder-cr
-			</a><br/>
-			Federico
-		</td>
-		<td>Federico.elia.majo@g </td>
-		<td>No Twitter Username</td>
-		<td>Dublin</td>
-		<td>586</td>
 	</tr>
 	<tr>
 		<td>31</td>
