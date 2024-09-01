@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/1 4:30 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/1 5:22 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -180,7 +180,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3620</td>
+		<td>3621</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -388,7 +388,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@redhatofficial </td>
 		<td><a href="https://twitter.com/sberyozkin">sberyozkin</a></td>
 		<td>Dublin, Ireland</td>
-		<td>1232</td>
+		<td>1233</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -440,7 +440,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@connected-politics- </td>
 		<td><a href="https://twitter.com/liaoyenchieh">liaoyenchieh</a></td>
 		<td>Dublin Ireland </td>
-		<td>1149</td>
+		<td>1152</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -505,7 +505,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Senior Fee @datadog; Ex<br/>Fee<br/>@aws<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>1093</td>
+		<td>1094</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -960,7 +960,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Vay </td>
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
-		<td>679</td>
+		<td>681</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1532,7 +1532,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Meta (@facebook) </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>398</td>
+		<td>400</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -1779,7 +1779,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>354</td>
+		<td>357</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -4917,6 +4917,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>371</td>
 		<td>
+			<a href="https://github.com/Crypto-Cat">
+				<img src="https://avatars.githubusercontent.com/u/12751872?s=72&u=086a5c0a1f24fa2700f41beefe5d456e159bee10&v=4" width="24" alt="Avatar of Crypto-Cat"> Crypto-Cat
+			</a><br/>
+			CryptoCat
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_CryptoCat">_CryptoCat</a></td>
+		<td>Belfast, Northern Ireland</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
 			<a href="https://github.com/jalberto">
 				<img src="https://avatars.githubusercontent.com/u/99927?s=72&v=4" width="24" alt="Avatar of jalberto"> jalberto
 			</a><br/>
@@ -4928,7 +4941,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/nebkat">
 				<img src="https://avatars.githubusercontent.com/u/506904?s=72&u=fe8d0d02e1fdaf9d86e2f0e2ecec12e6d595575a&v=4" width="24" alt="Avatar of nebkat"> nebkat
@@ -4941,7 +4954,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/tombee">
 				<img src="https://avatars.githubusercontent.com/u/60068?s=72&u=04cefe37b3ee74f6ba5029287405b9f4ff0b9fb0&v=4" width="24" alt="Avatar of tombee"> tombee
@@ -4952,19 +4965,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>61</td>
-	</tr>
-	<tr>
-		<td>374</td>
-		<td>
-			<a href="https://github.com/Crypto-Cat">
-				<img src="https://avatars.githubusercontent.com/u/12751872?s=72&u=086a5c0a1f24fa2700f41beefe5d456e159bee10&v=4" width="24" alt="Avatar of Crypto-Cat"> Crypto-Cat
-			</a><br/>
-			CryptoCat
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_CryptoCat">_CryptoCat</a></td>
-		<td>Belfast, Northern Ireland</td>
-		<td>60</td>
 	</tr>
 	<tr>
 		<td>375</td>
