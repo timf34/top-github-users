@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/9/1 4:30 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/9/1 5:26 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -116,8 +116,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10414</td>
-		<td>18059</td>
+		<td>10416</td>
+		<td>18061</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1522,6 +1522,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>102</td>
 		<td>
+			<a href="https://github.com/RobertJGabriel">
+				<img src="https://avatars.githubusercontent.com/u/6218780?s=72&u=7dd3c95a59a9b54f6fb3ce833706b6e133f43e67&v=4" width="24" alt="Avatar of RobertJGabriel"> RobertJGabriel
+			</a><br/>
+			Robert James Gabriel
+		</td>
+		<td>@helperbird  </td>
+		<td><a href="https://twitter.com/robertjgabriel">robertjgabriel</a></td>
+		<td>Ireland</td>
+		<td>756</td>
+		<td>1300</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
 			<a href="https://github.com/alphaville">
 				<img src="https://avatars.githubusercontent.com/u/125415?s=72&u=aa76f9449672b86512dda5eab237405560ddab0d&v=4" width="24" alt="Avatar of alphaville"> alphaville
 			</a><br/>
@@ -1532,20 +1546,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Belfast, Northern Ireland</td>
 		<td>432</td>
 		<td>1299</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/RobertJGabriel">
-				<img src="https://avatars.githubusercontent.com/u/6218780?s=72&u=7dd3c95a59a9b54f6fb3ce833706b6e133f43e67&v=4" width="24" alt="Avatar of RobertJGabriel"> RobertJGabriel
-			</a><br/>
-			Robert James Gabriel
-		</td>
-		<td>@helperbird  </td>
-		<td><a href="https://twitter.com/robertjgabriel">robertjgabriel</a></td>
-		<td>Ireland</td>
-		<td>754</td>
-		<td>1298</td>
 	</tr>
 	<tr>
 		<td>104</td>

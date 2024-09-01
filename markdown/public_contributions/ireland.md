@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/1 4:30 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/1 5:26 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -115,7 +115,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10414</td>
+		<td>10416</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -809,19 +809,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/Umutplvn">
-				<img src="https://avatars.githubusercontent.com/u/120283584?s=72&u=3b74637eb52ea18e15fdb409a1ee47a1e97e1aaa&v=4" width="24" alt="Avatar of Umutplvn"> Umutplvn
-			</a><br/>
-			Umut
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ireland</td>
-		<td>754</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
 			<a href="https://github.com/RobertJGabriel">
 				<img src="https://avatars.githubusercontent.com/u/6218780?s=72&u=7dd3c95a59a9b54f6fb3ce833706b6e133f43e67&v=4" width="24" alt="Avatar of RobertJGabriel"> RobertJGabriel
 			</a><br/>
@@ -829,6 +816,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		</td>
 		<td>@helperbird  </td>
 		<td><a href="https://twitter.com/robertjgabriel">robertjgabriel</a></td>
+		<td>Ireland</td>
+		<td>756</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/Umutplvn">
+				<img src="https://avatars.githubusercontent.com/u/120283584?s=72&u=3b74637eb52ea18e15fdb409a1ee47a1e97e1aaa&v=4" width="24" alt="Avatar of Umutplvn"> Umutplvn
+			</a><br/>
+			Umut
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>754</td>
 	</tr>
