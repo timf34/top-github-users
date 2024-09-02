@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/2 8:27 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/2 9:24 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -427,7 +427,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>709</td>
+		<td>710</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -3448,6 +3448,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>258</td>
 		<td>
+			<a href="https://github.com/mrdavidlaing">
+				<img src="https://avatars.githubusercontent.com/u/227505?s=72&u=990a78cc9a3173db973e06547dca204cff8d5aa3&v=4" width="24" alt="Avatar of mrdavidlaing"> mrdavidlaing
+			</a><br/>
+			David Laing
+		</td>
+		<td>Mechanical Orchard </td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
 			<a href="https://github.com/brk3">
 				<img src="https://avatars.githubusercontent.com/u/802125?s=72&v=4" width="24" alt="Avatar of brk3"> brk3
 			</a><br/>
@@ -3459,7 +3472,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/ComputerTech312">
 				<img src="https://avatars.githubusercontent.com/u/60820431?s=72&u=370455f97be445c477d1fc0d45d2352b91aa82ed&v=4" width="24" alt="Avatar of ComputerTech312"> ComputerTech312
@@ -3472,7 +3485,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/aviraldg">
 				<img src="https://avatars.githubusercontent.com/u/238916?s=72&v=4" width="24" alt="Avatar of aviraldg"> aviraldg
@@ -3485,7 +3498,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/ericm">
 				<img src="https://avatars.githubusercontent.com/u/29894839?s=72&u=b64d0bb202aa4c6b4c8e5a71312e500116b496a6&v=4" width="24" alt="Avatar of ericm"> ericm
@@ -3493,19 +3506,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 			Eric Moynihan
 		</td>
 		<td>@stripe </td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>121</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/mrdavidlaing">
-				<img src="https://avatars.githubusercontent.com/u/227505?s=72&u=990a78cc9a3173db973e06547dca204cff8d5aa3&v=4" width="24" alt="Avatar of mrdavidlaing"> mrdavidlaing
-			</a><br/>
-			David Laing
-		</td>
-		<td>Mechanical Orchard </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>121</td>
