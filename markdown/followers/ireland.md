@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/2 3:27 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/2 4:32 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -297,7 +297,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Siemens </td>
 		<td>No Twitter Username</td>
 		<td>Siemens, Dublin, Ireland</td>
-		<td>1228</td>
+		<td>1229</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -479,7 +479,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>608</td>
+		<td>610</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -648,7 +648,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@google </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>459</td>
+		<td>458</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -1628,6 +1628,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>118</td>
 		<td>
+			<a href="https://github.com/paulca">
+				<img src="https://avatars.githubusercontent.com/u/1229?s=72&v=4" width="24" alt="Avatar of paulca"> paulca
+			</a><br/>
+			Paul Campbell
+		</td>
+		<td>Tito </td>
+		<td><a href="https://twitter.com/paulca">paulca</a></td>
+		<td>Dublin, Ireland</td>
+		<td>214</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
 			<a href="https://github.com/amir">
 				<img src="https://avatars.githubusercontent.com/u/4293?s=72&u=faf1ac0070df8cea283e75cefb6081fc19b68a82&v=4" width="24" alt="Avatar of amir"> amir
 			</a><br/>
@@ -1637,19 +1650,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/gluegadget">gluegadget</a></td>
 		<td>Dublin, Ireland</td>
 		<td>214</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/paulca">
-				<img src="https://avatars.githubusercontent.com/u/1229?s=72&v=4" width="24" alt="Avatar of paulca"> paulca
-			</a><br/>
-			Paul Campbell
-		</td>
-		<td>Tito </td>
-		<td><a href="https://twitter.com/paulca">paulca</a></td>
-		<td>Dublin, Ireland</td>
-		<td>213</td>
 	</tr>
 	<tr>
 		<td>120</td>
@@ -1714,7 +1714,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>201</td>
+		<td>202</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -11924,19 +11924,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>910</td>
 		<td>
-			<a href="https://github.com/ideasasylum">
-				<img src="https://avatars.githubusercontent.com/u/14988?s=72&v=4" width="24" alt="Avatar of ideasasylum"> ideasasylum
-			</a><br/>
-			Jamie Lawrence
-		</td>
-		<td>Ideas Asylum And @podia<br/><br/></td>
-		<td><a href="https://twitter.com/ideasasylum">ideasasylum</a></td>
-		<td>Cork, Ireland</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>911</td>
-		<td>
 			<a href="https://github.com/AndrMenezes">
 				<img src="https://avatars.githubusercontent.com/u/27217598?s=72&u=12e5d88cb1650e08485bf784cfd21d4dab106c00&v=4" width="24" alt="Avatar of AndrMenezes"> AndrMenezes
 			</a><br/>
@@ -11945,6 +11932,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Maynooth University </td>
 		<td>No Twitter Username</td>
 		<td>Co. Kildare, Maynooth, Ireland</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>911</td>
+		<td>
+			<a href="https://github.com/ideasasylum">
+				<img src="https://avatars.githubusercontent.com/u/14988?s=72&v=4" width="24" alt="Avatar of ideasasylum"> ideasasylum
+			</a><br/>
+			Jamie Lawrence
+		</td>
+		<td>Ideas Asylum And @podia<br/><br/></td>
+		<td><a href="https://twitter.com/ideasasylum">ideasasylum</a></td>
+		<td>Cork, Ireland</td>
 		<td>42</td>
 	</tr>
 	<tr>
