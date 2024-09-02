@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/9/2 6:34 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/9/2 7:25 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -116,8 +116,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10440</td>
-		<td>18093</td>
+		<td>10442</td>
+		<td>18097</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -369,7 +369,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/alexberegszaszi">alexberegszaszi</a></td>
 		<td>Dublin, Ireland</td>
 		<td>100</td>
-		<td>3239</td>
+		<td>3240</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -467,7 +467,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/DooleyBran1">DooleyBran1</a></td>
 		<td>Dublin</td>
 		<td>1</td>
-		<td>2638</td>
+		<td>2639</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -495,7 +495,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>19</td>
-		<td>2439</td>
+		<td>2440</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -550,8 +550,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Thought Collective </td>
 		<td>No Twitter Username</td>
 		<td>Belfast, Northern Ireland</td>
-		<td>1268</td>
-		<td>2364</td>
+		<td>1269</td>
+		<td>2365</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -1251,7 +1251,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/paulswail">paulswail</a></td>
 		<td>Belfast, Ireland</td>
 		<td>2</td>
-		<td>1463</td>
+		<td>1464</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -3196,8 +3196,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Galway</td>
-		<td>686</td>
-		<td>686</td>
+		<td>687</td>
+		<td>687</td>
 	</tr>
 	<tr>
 		<td>222</td>
@@ -5036,6 +5036,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>353</td>
 		<td>
+			<a href="https://github.com/No9">
+				<img src="https://avatars.githubusercontent.com/u/130940?s=72&u=f1195aa9421f8b5f1bca88d2255ac8b8dea1a24f&v=4" width="24" alt="Avatar of No9"> No9
+			</a><br/>
+			Anton Whalley
+		</td>
+		<td>Mehal Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Dublin</td>
+		<td>209</td>
+		<td>330</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
 			<a href="https://github.com/grahamhayes">
 				<img src="https://avatars.githubusercontent.com/u/122395?s=72&u=75dfe9030a242cc3925d40eb9242608e2bc8f9b6&v=4" width="24" alt="Avatar of grahamhayes"> grahamhayes
 			</a><br/>
@@ -5046,20 +5060,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Dublin, Ireland</td>
 		<td>11</td>
 		<td>329</td>
-	</tr>
-	<tr>
-		<td>354</td>
-		<td>
-			<a href="https://github.com/No9">
-				<img src="https://avatars.githubusercontent.com/u/130940?s=72&u=f1195aa9421f8b5f1bca88d2255ac8b8dea1a24f&v=4" width="24" alt="Avatar of No9"> No9
-			</a><br/>
-			Anton Whalley
-		</td>
-		<td>Mehal Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Dublin</td>
-		<td>209</td>
-		<td>328</td>
 	</tr>
 	<tr>
 		<td>355</td>
@@ -6598,8 +6598,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Northern Ireland, UK</td>
-		<td>126</td>
-		<td>156</td>
+		<td>125</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>465</td>
