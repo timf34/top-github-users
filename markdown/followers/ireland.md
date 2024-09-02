@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/2 3:28 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/2 4:31 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -466,7 +466,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>643</td>
+		<td>644</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -479,7 +479,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>601</td>
+		<td>603</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -757,19 +757,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>51</td>
 		<td>
-			<a href="https://github.com/enty8080">
-				<img src="https://avatars.githubusercontent.com/u/54115104?s=72&u=f2b36aaaefa963c291400a808e1219cb96fd2e3c&v=4" width="24" alt="Avatar of enty8080"> enty8080
-			</a><br/>
-			Ivan Nikolskiy
-		</td>
-		<td>@entysec </td>
-		<td><a href="https://twitter.com/enty8080">enty8080</a></td>
-		<td>Ireland, Carlow</td>
-		<td>406</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
 			<a href="https://github.com/hmikihth">
 				<img src="https://avatars.githubusercontent.com/u/79752640?s=72&u=b150bee4b93e551e634752d5d1652d9aa3c5d785&v=4" width="24" alt="Avatar of hmikihth"> hmikihth
 			</a><br/>
@@ -778,6 +765,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Draken.ee </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
+		<td>407</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/enty8080">
+				<img src="https://avatars.githubusercontent.com/u/54115104?s=72&u=f2b36aaaefa963c291400a808e1219cb96fd2e3c&v=4" width="24" alt="Avatar of enty8080"> enty8080
+			</a><br/>
+			Ivan Nikolskiy
+		</td>
+		<td>@entysec </td>
+		<td><a href="https://twitter.com/enty8080">enty8080</a></td>
+		<td>Ireland, Carlow</td>
 		<td>406</td>
 	</tr>
 	<tr>
