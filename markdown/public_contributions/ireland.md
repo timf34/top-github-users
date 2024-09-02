@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/2 4:31 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/2 5:26 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -115,7 +115,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10431</td>
+		<td>10434</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -908,7 +908,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Trinity College Dublin </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>714</td>
+		<td>715</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1389,7 +1389,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Cesanta </td>
 		<td>No Twitter Username</td>
 		<td>Galway, Ireland</td>
-		<td>468</td>
+		<td>469</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -2832,7 +2832,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@opencv @intel </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>187</td>
+		<td>188</td>
 	</tr>
 	<tr>
 		<td>211</td>
