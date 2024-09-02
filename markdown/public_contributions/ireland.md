@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/2 5:26 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/2 6:34 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -115,7 +115,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10434</td>
+		<td>10440</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -778,7 +778,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@helperbird  </td>
 		<td><a href="https://twitter.com/robertjgabriel">robertjgabriel</a></td>
 		<td>Ireland</td>
-		<td>793</td>
+		<td>795</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -926,19 +926,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>64</td>
 		<td>
-			<a href="https://github.com/Barqawiz">
-				<img src="https://avatars.githubusercontent.com/u/2751950?s=72&u=7dffdda16f93f26faf33dc36383e90a00edd735b&v=4" width="24" alt="Avatar of Barqawiz"> Barqawiz
-			</a><br/>
-			cybercoder
-		</td>
-		<td>Master At Uiuc </td>
-		<td>No Twitter Username</td>
-		<td>Dublin</td>
-		<td>685</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
 			<a href="https://github.com/lukel97">
 				<img src="https://avatars.githubusercontent.com/u/2488460?s=72&u=22c2f735a89edf1c366eb9df010ed448d73ee200&v=4" width="24" alt="Avatar of lukel97"> lukel97
 			</a><br/>
@@ -947,6 +934,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Galway</td>
+		<td>686</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/Barqawiz">
+				<img src="https://avatars.githubusercontent.com/u/2751950?s=72&u=7dffdda16f93f26faf33dc36383e90a00edd735b&v=4" width="24" alt="Avatar of Barqawiz"> Barqawiz
+			</a><br/>
+			cybercoder
+		</td>
+		<td>Master At Uiuc </td>
+		<td>No Twitter Username</td>
+		<td>Dublin</td>
 		<td>685</td>
 	</tr>
 	<tr>
@@ -2364,7 +2364,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Killarney, Co. Kerry, Ireland</td>
-		<td>233</td>
+		<td>234</td>
 	</tr>
 	<tr>
 		<td>175</td>
