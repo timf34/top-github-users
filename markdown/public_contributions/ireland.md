@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/2 1:30 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/2 2:52 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -115,7 +115,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10421</td>
+		<td>10423</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>4614</td>
+		<td>4616</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -180,7 +180,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3624</td>
+		<td>3625</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1511,19 +1511,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>109</td>
 		<td>
-			<a href="https://github.com/bnomei">
-				<img src="https://avatars.githubusercontent.com/u/3265642?s=72&u=4d9943e72216a2e210901d2c4a55e2c375bbacd9&v=4" width="24" alt="Avatar of bnomei"> bnomei
-			</a><br/>
-			Bruno Meilick
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bnomei">bnomei</a></td>
-		<td>Ireland</td>
-		<td>407</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
 			<a href="https://github.com/xaionaro">
 				<img src="https://avatars.githubusercontent.com/u/2349376?s=72&u=134a8122e252ee1a1afeeb463998e7560a24d986&v=4" width="24" alt="Avatar of xaionaro"> xaionaro
 			</a><br/>
@@ -1532,6 +1519,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Meta (@facebook) </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
+		<td>408</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/bnomei">
+				<img src="https://avatars.githubusercontent.com/u/3265642?s=72&u=4d9943e72216a2e210901d2c4a55e2c375bbacd9&v=4" width="24" alt="Avatar of bnomei"> bnomei
+			</a><br/>
+			Bruno Meilick
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/bnomei">bnomei</a></td>
+		<td>Ireland</td>
 		<td>407</td>
 	</tr>
 	<tr>
