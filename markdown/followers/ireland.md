@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/2 4:32 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/2 5:24 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -141,7 +141,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sanityinc">sanityinc</a></td>
 		<td>Ireland</td>
-		<td>3105</td>
+		<td>3106</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1038,7 +1038,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Wicklow, Ireland</td>
-		<td>349</td>
+		<td>350</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1082,19 +1082,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>76</td>
 		<td>
-			<a href="https://github.com/mrfearless">
-				<img src="https://avatars.githubusercontent.com/u/1768766?s=72&u=27c214b080773dc0f9a1fc6cf03bc0b740a6edec&v=4" width="24" alt="Avatar of mrfearless"> mrfearless
-			</a><br/>
-			fearless
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Drogheda, Ireland</td>
-		<td>319</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
 			<a href="https://github.com/nsomar">
 				<img src="https://avatars.githubusercontent.com/u/1461052?s=72&u=559fe5828f7b02cf9b375ec861840b59117c8d93&v=4" width="24" alt="Avatar of nsomar"> nsomar
 			</a><br/>
@@ -1106,7 +1093,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>319</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/mdibaiee">
 				<img src="https://avatars.githubusercontent.com/u/2807772?s=72&v=4" width="24" alt="Avatar of mdibaiee"> mdibaiee
@@ -1116,6 +1103,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@estuary </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
+		<td>318</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/mrfearless">
+				<img src="https://avatars.githubusercontent.com/u/1768766?s=72&u=27c214b080773dc0f9a1fc6cf03bc0b740a6edec&v=4" width="24" alt="Avatar of mrfearless"> mrfearless
+			</a><br/>
+			fearless
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Drogheda, Ireland</td>
 		<td>318</td>
 	</tr>
 	<tr>
@@ -1186,19 +1186,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>84</td>
 		<td>
-			<a href="https://github.com/sipsorcery">
-				<img src="https://avatars.githubusercontent.com/u/197660?s=72&u=a33278d0a1f22291ca7660b07b39700fffa2de4a&v=4" width="24" alt="Avatar of sipsorcery"> sipsorcery
-			</a><br/>
-			Aaron Clauson
-		</td>
-		<td>Nofrixion </td>
-		<td><a href="https://twitter.com/sipsorcery">sipsorcery</a></td>
-		<td>Dublin, Ireland</td>
-		<td>303</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
 			<a href="https://github.com/jgrossi">
 				<img src="https://avatars.githubusercontent.com/u/1175275?s=72&u=ef64cdf8adb43af32b4aa744ad99d7f3fdfe65dd&v=4" width="24" alt="Avatar of jgrossi"> jgrossi
 			</a><br/>
@@ -1207,6 +1194,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@paddlehq  </td>
 		<td>No Twitter Username</td>
 		<td>Galway, Ireland</td>
+		<td>303</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/sipsorcery">
+				<img src="https://avatars.githubusercontent.com/u/197660?s=72&u=a33278d0a1f22291ca7660b07b39700fffa2de4a&v=4" width="24" alt="Avatar of sipsorcery"> sipsorcery
+			</a><br/>
+			Aaron Clauson
+		</td>
+		<td>Nofrixion </td>
+		<td><a href="https://twitter.com/sipsorcery">sipsorcery</a></td>
+		<td>Dublin, Ireland</td>
 		<td>303</td>
 	</tr>
 	<tr>
@@ -1298,7 +1298,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@amd </td>
 		<td><a href="https://twitter.com/capnramses">capnramses</a></td>
 		<td>Dublin, Ireland</td>
-		<td>271</td>
+		<td>272</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1974,7 +1974,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Northern Ireland</td>
-		<td>183</td>
+		<td>182</td>
 	</tr>
 	<tr>
 		<td>145</td>
