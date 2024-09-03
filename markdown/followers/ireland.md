@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/3 3:28 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/3 4:33 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -479,7 +479,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>626</td>
+		<td>627</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -2208,7 +2208,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Maltrak </td>
 		<td><a href="https://twitter.com/Amr_Thabet">Amr_Thabet</a></td>
 		<td>Ireland</td>
-		<td>168</td>
+		<td>169</td>
 	</tr>
 	<tr>
 		<td>163</td>
@@ -4800,6 +4800,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>362</td>
 		<td>
+			<a href="https://github.com/Mongey">
+				<img src="https://avatars.githubusercontent.com/u/625787?s=72&u=515d95549d5042f9e2ceab2d88f0f249362a77fe&v=4" width="24" alt="Avatar of Mongey"> Mongey
+			</a><br/>
+			Conor Mongey
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mongeyc">mongeyc</a></td>
+		<td>Dublin, Ireland</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
 			<a href="https://github.com/nebkat">
 				<img src="https://avatars.githubusercontent.com/u/506904?s=72&u=fe8d0d02e1fdaf9d86e2f0e2ecec12e6d595575a&v=4" width="24" alt="Avatar of nebkat"> nebkat
 			</a><br/>
@@ -4811,7 +4824,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/wjgilmore">
 				<img src="https://avatars.githubusercontent.com/u/161522?s=72&u=1c277f359a058fad14b4b351e9bbcd0587722641&v=4" width="24" alt="Avatar of wjgilmore"> wjgilmore
@@ -4824,7 +4837,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/braaannigan">
 				<img src="https://avatars.githubusercontent.com/u/10512793?s=72&u=f59bf22962db038fdeabd0a2b693edc52237e9e6&v=4" width="24" alt="Avatar of braaannigan"> braaannigan
@@ -4835,19 +4848,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/braaannigan">braaannigan</a></td>
 		<td>Belfast, Northern Ireland</td>
 		<td>94</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
-			<a href="https://github.com/Mongey">
-				<img src="https://avatars.githubusercontent.com/u/625787?s=72&u=515d95549d5042f9e2ceab2d88f0f249362a77fe&v=4" width="24" alt="Avatar of Mongey"> Mongey
-			</a><br/>
-			Conor Mongey
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mongeyc">mongeyc</a></td>
-		<td>Dublin, Ireland</td>
-		<td>93</td>
 	</tr>
 	<tr>
 		<td>366</td>
