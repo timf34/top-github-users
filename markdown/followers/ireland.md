@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/3 12:44 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/3 1:32 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -388,7 +388,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
-		<td>775</td>
+		<td>776</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -479,7 +479,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>625</td>
+		<td>627</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -2239,19 +2239,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>165</td>
 		<td>
-			<a href="https://github.com/colmdoyle">
-				<img src="https://avatars.githubusercontent.com/u/406463?s=72&u=752a920df3a95f84756d909d34eec1657ed76596&v=4" width="24" alt="Avatar of colmdoyle"> colmdoyle
-			</a><br/>
-			Colm Doyle
-		</td>
-		<td>@personio </td>
-		<td><a href="https://twitter.com/colmisainmdom">colmisainmdom</a></td>
-		<td>Dublin, Ireland</td>
-		<td>166</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
 			<a href="https://github.com/ilonajulczuk">
 				<img src="https://avatars.githubusercontent.com/u/2233160?s=72&u=b87feec58bd017020c7cc6474dc8eeca6dc0fbb6&v=4" width="24" alt="Avatar of ilonajulczuk"> ilonajulczuk
 			</a><br/>
@@ -2260,6 +2247,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
+		<td>167</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/colmdoyle">
+				<img src="https://avatars.githubusercontent.com/u/406463?s=72&u=752a920df3a95f84756d909d34eec1657ed76596&v=4" width="24" alt="Avatar of colmdoyle"> colmdoyle
+			</a><br/>
+			Colm Doyle
+		</td>
+		<td>@personio </td>
+		<td><a href="https://twitter.com/colmisainmdom">colmisainmdom</a></td>
+		<td>Dublin, Ireland</td>
 		<td>166</td>
 	</tr>
 	<tr>
@@ -2902,6 +2902,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>216</td>
 		<td>
+			<a href="https://github.com/davidycliao">
+				<img src="https://avatars.githubusercontent.com/u/35374714?s=72&u=efe6f260220ef30778d48acddb256e3c49325c4a&v=4" width="24" alt="Avatar of davidycliao"> davidycliao
+			</a><br/>
+			David Liao
+		</td>
+		<td>@connected-politics- </td>
+		<td><a href="https://twitter.com/liaoyenchieh">liaoyenchieh</a></td>
+		<td>Dublin Ireland </td>
+		<td>138</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
 			<a href="https://github.com/dbafromthecold">
 				<img src="https://avatars.githubusercontent.com/u/28392876?s=72&v=4" width="24" alt="Avatar of dbafromthecold"> dbafromthecold
 			</a><br/>
@@ -2911,19 +2924,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/dbafromthecold">dbafromthecold</a></td>
 		<td>Ireland</td>
 		<td>138</td>
-	</tr>
-	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/davidycliao">
-				<img src="https://avatars.githubusercontent.com/u/35374714?s=72&u=efe6f260220ef30778d48acddb256e3c49325c4a&v=4" width="24" alt="Avatar of davidycliao"> davidycliao
-			</a><br/>
-			David Liao
-		</td>
-		<td>@connected-politics- </td>
-		<td><a href="https://twitter.com/liaoyenchieh">liaoyenchieh</a></td>
-		<td>Dublin Ireland </td>
-		<td>137</td>
 	</tr>
 	<tr>
 		<td>218</td>
@@ -3188,6 +3188,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>238</td>
 		<td>
+			<a href="https://github.com/oisdk">
+				<img src="https://avatars.githubusercontent.com/u/12214150?s=72&u=e9a1cf01723860f1a2742d51463165f83509677e&v=4" width="24" alt="Avatar of oisdk"> oisdk
+			</a><br/>
+			Donnacha Oisín Kidney
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/oisdk">oisdk</a></td>
+		<td>Cork, Ireland</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
 			<a href="https://github.com/Rita-Okonkwo">
 				<img src="https://avatars.githubusercontent.com/u/35587632?s=72&u=ecfb7972f7cf09fdb0f580299c36a6669cec4c7b&v=4" width="24" alt="Avatar of Rita-Okonkwo"> Rita-Okonkwo
 			</a><br/>
@@ -3199,7 +3212,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/isabellasouzas">
 				<img src="https://avatars.githubusercontent.com/u/49169224?s=72&u=1babc50c2cbaf23e168812e1c4fe9ab61f6d4ad4&v=4" width="24" alt="Avatar of isabellasouzas"> isabellasouzas
@@ -3212,7 +3225,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/niqdev">
 				<img src="https://avatars.githubusercontent.com/u/9458643?s=72&u=382972b744c24835cbbe51d04c752795e95e690a&v=4" width="24" alt="Avatar of niqdev"> niqdev
@@ -3222,19 +3235,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
-			<a href="https://github.com/oisdk">
-				<img src="https://avatars.githubusercontent.com/u/12214150?s=72&u=e9a1cf01723860f1a2742d51463165f83509677e&v=4" width="24" alt="Avatar of oisdk"> oisdk
-			</a><br/>
-			Donnacha Oisín Kidney
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/oisdk">oisdk</a></td>
-		<td>Cork, Ireland</td>
 		<td>129</td>
 	</tr>
 	<tr>
