@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/9/3 5:26 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/9/3 6:34 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -243,7 +243,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>846</td>
-		<td>4395</td>
+		<td>4399</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -523,7 +523,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/rlaphoenix">rlaphoenix</a></td>
 		<td>Ireland</td>
 		<td>585</td>
-		<td>2391</td>
+		<td>2398</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -844,8 +844,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Waterford Institute Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Waterford, Ireland</td>
-		<td>1227</td>
-		<td>1742</td>
+		<td>1228</td>
+		<td>1743</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -1116,6 +1116,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>73</td>
 		<td>
+			<a href="https://github.com/izifortune">
+				<img src="https://avatars.githubusercontent.com/u/3394606?s=72&u=0561de9fb6bde6a62ba8f90275f4300bace7e447&v=4" width="24" alt="Avatar of izifortune"> izifortune
+			</a><br/>
+			Fabrizio Fortunato
+		</td>
+		<td>@ryanair  </td>
+		<td>No Twitter Username</td>
+		<td>Dublin</td>
+		<td>18</td>
+		<td>1512</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
 			<a href="https://github.com/tobya">
 				<img src="https://avatars.githubusercontent.com/u/325502?s=72&v=4" width="24" alt="Avatar of tobya"> tobya
 			</a><br/>
@@ -1128,7 +1142,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>1503</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/erd">
 				<img src="https://avatars.githubusercontent.com/u/184194?s=72&v=4" width="24" alt="Avatar of erd"> erd
@@ -1140,20 +1154,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Dublin, CA</td>
 		<td>0</td>
 		<td>1501</td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>
-			<a href="https://github.com/izifortune">
-				<img src="https://avatars.githubusercontent.com/u/3394606?s=72&u=0561de9fb6bde6a62ba8f90275f4300bace7e447&v=4" width="24" alt="Avatar of izifortune"> izifortune
-			</a><br/>
-			Fabrizio Fortunato
-		</td>
-		<td>@ryanair  </td>
-		<td>No Twitter Username</td>
-		<td>Dublin</td>
-		<td>18</td>
-		<td>1499</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1223,7 +1223,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/paulswail">paulswail</a></td>
 		<td>Belfast, Ireland</td>
 		<td>2</td>
-		<td>1457</td>
+		<td>1458</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1825,7 +1825,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/IdiomaticBytes">IdiomaticBytes</a></td>
 		<td>Galway 🇮🇪</td>
 		<td>175</td>
-		<td>1167</td>
+		<td>1168</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -3729,7 +3729,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/henna_dev">henna_dev</a></td>
 		<td>Dublin, Ireland</td>
 		<td>528</td>
-		<td>570</td>
+		<td>569</td>
 	</tr>
 	<tr>
 		<td>260</td>
@@ -4190,8 +4190,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/orta">orta</a></td>
 		<td>Huddersfield / NYC / Dublin / Rio de Janeiro</td>
-		<td>433</td>
-		<td>433</td>
+		<td>434</td>
+		<td>434</td>
 	</tr>
 	<tr>
 		<td>293</td>
