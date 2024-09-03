@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/3 2:48 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/3 3:29 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -115,7 +115,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Elastic </td>
 		<td><a href="https://twitter.com/miguelgrinberg">miguelgrinberg</a></td>
 		<td>Ireland</td>
-		<td>12422</td>
+		<td>12423</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -479,7 +479,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>616</td>
+		<td>617</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -1623,7 +1623,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Frontend Development Lead </td>
 		<td><a href="https://twitter.com/93alan">93alan</a></td>
 		<td>Belfast, Northern Ireland</td>
-		<td>217</td>
+		<td>218</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -2291,15 +2291,15 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>169</td>
 		<td>
-			<a href="https://github.com/aliva">
-				<img src="https://avatars.githubusercontent.com/u/359286?s=72&v=4" width="24" alt="Avatar of aliva"> aliva
+			<a href="https://github.com/ilonajulczuk">
+				<img src="https://avatars.githubusercontent.com/u/2233160?s=72&u=b87feec58bd017020c7cc6474dc8eeca6dc0fbb6&v=4" width="24" alt="Avatar of ilonajulczuk"> ilonajulczuk
 			</a><br/>
-			Ali Vakilzade
+			Justyna Ilczuk
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Dublin</td>
-		<td>161</td>
+		<td>Ireland</td>
+		<td>162</td>
 	</tr>
 	<tr>
 		<td>170</td>
