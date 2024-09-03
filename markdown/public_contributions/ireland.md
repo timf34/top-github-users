@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/3 6:32 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/3 7:23 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -141,7 +141,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>4625</td>
+		<td>4627</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -271,7 +271,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Cork, Ireland</td>
-		<td>1732</td>
+		<td>1733</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -349,7 +349,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Thought Collective </td>
 		<td>No Twitter Username</td>
 		<td>Belfast, Northern Ireland</td>
-		<td>1254</td>
+		<td>1255</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -505,7 +505,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Senior Fee @datadog; Ex<br/>Fee<br/>@aws<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>1071</td>
+		<td>1072</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -635,7 +635,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/RdotSilva">RdotSilva</a></td>
 		<td>Cork, Ireland</td>
-		<td>853</td>
+		<td>858</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -752,7 +752,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@helperbird  </td>
 		<td><a href="https://twitter.com/robertjgabriel">robertjgabriel</a></td>
 		<td>Ireland</td>
-		<td>801</td>
+		<td>803</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -1064,7 +1064,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Cosd (cardano Stake Pool<br/>&<br/>Consultancy)<br/></td>
 		<td><a href="https://twitter.com/COSDpool">COSDpool</a></td>
 		<td>Dublin, IE</td>
-		<td>615</td>
+		<td>616</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1623,7 +1623,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Redpanda Data </td>
 		<td><a href="https://twitter.com/MihaiTodor">MihaiTodor</a></td>
 		<td>Dublin</td>
-		<td>379</td>
+		<td>380</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -2221,7 +2221,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>256</td>
+		<td>257</td>
 	</tr>
 	<tr>
 		<td>164</td>
