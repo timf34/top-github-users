@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/9/4 1:29 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/9/4 2:50 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -312,8 +312,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3578</td>
-		<td>3636</td>
+		<td>3579</td>
+		<td>3637</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -2502,6 +2502,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>172</td>
 		<td>
+			<a href="https://github.com/eoin-obrien">
+				<img src="https://avatars.githubusercontent.com/u/16313217?s=72&u=e86cb208fe74cdd5171ac0d23a68648efa141a20&v=4" width="24" alt="Avatar of eoin-obrien"> eoin-obrien
+			</a><br/>
+			Eoin O'Brien
+		</td>
+		<td>@tracworx  </td>
+		<td><a href="https://twitter.com/realEoinOBrien">realEoinOBrien</a></td>
+		<td>Ireland</td>
+		<td>161</td>
+		<td>870</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
 			<a href="https://github.com/brrygrdn">
 				<img src="https://avatars.githubusercontent.com/u/896971?s=72&u=c297fb12df39556aa013be13bd5344476dea1bd3&v=4" width="24" alt="Avatar of brrygrdn"> brrygrdn
 			</a><br/>
@@ -2514,7 +2528,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>869</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/ketanbhatt">
 				<img src="https://avatars.githubusercontent.com/u/9729957?s=72&v=4" width="24" alt="Avatar of ketanbhatt"> ketanbhatt
@@ -2528,7 +2542,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>868</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/Zer0xFF">
 				<img src="https://avatars.githubusercontent.com/u/5013823?s=72&u=b2ff9fd2a73c324910bff71d55eeee95600750cd&v=4" width="24" alt="Avatar of Zer0xFF"> Zer0xFF
@@ -2539,20 +2553,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>44</td>
-		<td>867</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/eoin-obrien">
-				<img src="https://avatars.githubusercontent.com/u/16313217?s=72&u=e86cb208fe74cdd5171ac0d23a68648efa141a20&v=4" width="24" alt="Avatar of eoin-obrien"> eoin-obrien
-			</a><br/>
-			Eoin O'Brien
-		</td>
-		<td>@tracworx  </td>
-		<td><a href="https://twitter.com/realEoinOBrien">realEoinOBrien</a></td>
-		<td>Ireland</td>
-		<td>161</td>
 		<td>867</td>
 	</tr>
 	<tr>
@@ -3112,8 +3112,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Remise </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>347</td>
-		<td>699</td>
+		<td>348</td>
+		<td>700</td>
 	</tr>
 	<tr>
 		<td>216</td>
@@ -3267,7 +3267,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/utkarshg97">utkarshg97</a></td>
 		<td>Dublin, Ireland</td>
 		<td>0</td>
-		<td>668</td>
+		<td>670</td>
 	</tr>
 	<tr>
 		<td>227</td>
@@ -4504,6 +4504,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>315</td>
 		<td>
+			<a href="https://github.com/mihaitodor">
+				<img src="https://avatars.githubusercontent.com/u/788216?s=72&v=4" width="24" alt="Avatar of mihaitodor"> mihaitodor
+			</a><br/>
+			Mihai Todor
+		</td>
+		<td>Redpanda Data </td>
+		<td><a href="https://twitter.com/MihaiTodor">MihaiTodor</a></td>
+		<td>Dublin</td>
+		<td>381</td>
+		<td>387</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
 			<a href="https://github.com/solson">
 				<img src="https://avatars.githubusercontent.com/u/26806?s=72&u=19472456e98ab9a86d38ec149be54263b16044e8&v=4" width="24" alt="Avatar of solson"> solson
 			</a><br/>
@@ -4514,20 +4528,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Canada/Ireland</td>
 		<td>14</td>
 		<td>387</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
-			<a href="https://github.com/mihaitodor">
-				<img src="https://avatars.githubusercontent.com/u/788216?s=72&v=4" width="24" alt="Avatar of mihaitodor"> mihaitodor
-			</a><br/>
-			Mihai Todor
-		</td>
-		<td>Redpanda Data </td>
-		<td><a href="https://twitter.com/MihaiTodor">MihaiTodor</a></td>
-		<td>Dublin</td>
-		<td>380</td>
-		<td>386</td>
 	</tr>
 	<tr>
 		<td>317</td>

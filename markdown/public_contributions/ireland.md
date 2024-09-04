@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/4 1:29 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/4 2:50 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -180,7 +180,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3578</td>
+		<td>3579</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1602,6 +1602,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>116</td>
 		<td>
+			<a href="https://github.com/mihaitodor">
+				<img src="https://avatars.githubusercontent.com/u/788216?s=72&v=4" width="24" alt="Avatar of mihaitodor"> mihaitodor
+			</a><br/>
+			Mihai Todor
+		</td>
+		<td>Redpanda Data </td>
+		<td><a href="https://twitter.com/MihaiTodor">MihaiTodor</a></td>
+		<td>Dublin</td>
+		<td>381</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
 			<a href="https://github.com/darrenmeehan">
 				<img src="https://avatars.githubusercontent.com/u/411136?s=72&u=e79e8a15785c26cc27b51f25ba9b86022a63585a&v=4" width="24" alt="Avatar of darrenmeehan"> darrenmeehan
 			</a><br/>
@@ -1611,19 +1624,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/Darrenmeehan">Darrenmeehan</a></td>
 		<td>Ireland</td>
 		<td>381</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/mihaitodor">
-				<img src="https://avatars.githubusercontent.com/u/788216?s=72&v=4" width="24" alt="Avatar of mihaitodor"> mihaitodor
-			</a><br/>
-			Mihai Todor
-		</td>
-		<td>Redpanda Data </td>
-		<td><a href="https://twitter.com/MihaiTodor">MihaiTodor</a></td>
-		<td>Dublin</td>
-		<td>380</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -1779,7 +1779,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Remise </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>347</td>
+		<td>348</td>
 	</tr>
 	<tr>
 		<td>130</td>
