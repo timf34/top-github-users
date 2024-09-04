@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/4 6:30 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/4 7:23 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -1576,6 +1576,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>114</td>
 		<td>
+			<a href="https://github.com/barak">
+				<img src="https://avatars.githubusercontent.com/u/41826?s=72&v=4" width="24" alt="Avatar of barak"> barak
+			</a><br/>
+			Barak A. Pearlmutter
+		</td>
+		<td>Dept Of Computer Science,<br/>Maynooth<br/>University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Ireland</td>
+		<td>225</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
 			<a href="https://github.com/ashteya">
 				<img src="https://avatars.githubusercontent.com/u/2181667?s=72&u=7f587fae3ab172335a00b85cd12878c69ec94d75&v=4" width="24" alt="Avatar of ashteya"> ashteya
 			</a><br/>
@@ -1585,19 +1598,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Cork, Ireland</td>
 		<td>225</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/barak">
-				<img src="https://avatars.githubusercontent.com/u/41826?s=72&v=4" width="24" alt="Avatar of barak"> barak
-			</a><br/>
-			Barak A. Pearlmutter
-		</td>
-		<td>Dept Of Computer Science,<br/>Maynooth<br/>University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Ireland</td>
-		<td>224</td>
 	</tr>
 	<tr>
 		<td>116</td>
