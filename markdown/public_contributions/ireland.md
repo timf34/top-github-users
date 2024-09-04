@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/4 3:27 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/4 4:30 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -115,7 +115,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10382</td>
+		<td>10383</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>4645</td>
+		<td>4646</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1636,7 +1636,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@evervault </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>379</td>
+		<td>380</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -2460,6 +2460,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>182</td>
 		<td>
+			<a href="https://github.com/conoro">
+				<img src="https://avatars.githubusercontent.com/u/586566?s=72&u=0656e52498230c2ef044e1835f229ea0398c8ff8&v=4" width="24" alt="Avatar of conoro"> conoro
+			</a><br/>
+			Conor O'Neill
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/conoro">conoro</a></td>
+		<td>Bandon, Cork, Ireland</td>
+		<td>217</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
 			<a href="https://github.com/oisdk">
 				<img src="https://avatars.githubusercontent.com/u/12214150?s=72&u=e9a1cf01723860f1a2742d51463165f83509677e&v=4" width="24" alt="Avatar of oisdk"> oisdk
 			</a><br/>
@@ -2471,7 +2484,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/jaksi">
 				<img src="https://avatars.githubusercontent.com/u/479446?s=72&u=8afe242a7d9cdd203d10b571a56f5ed14e9b8dce&v=4" width="24" alt="Avatar of jaksi"> jaksi
@@ -2482,19 +2495,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>216</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/conoro">
-				<img src="https://avatars.githubusercontent.com/u/586566?s=72&u=0656e52498230c2ef044e1835f229ea0398c8ff8&v=4" width="24" alt="Avatar of conoro"> conoro
-			</a><br/>
-			Conor O'Neill
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/conoro">conoro</a></td>
-		<td>Bandon, Cork, Ireland</td>
-		<td>215</td>
 	</tr>
 	<tr>
 		<td>185</td>
