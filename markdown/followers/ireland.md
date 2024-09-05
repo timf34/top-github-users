@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/5 5:24 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/5 6:32 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -336,7 +336,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/stephenfewer">stephenfewer</a></td>
 		<td>Ireland</td>
-		<td>967</td>
+		<td>968</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -2902,19 +2902,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>216</td>
 		<td>
-			<a href="https://github.com/davidycliao">
-				<img src="https://avatars.githubusercontent.com/u/35374714?s=72&u=efe6f260220ef30778d48acddb256e3c49325c4a&v=4" width="24" alt="Avatar of davidycliao"> davidycliao
-			</a><br/>
-			David Liao
-		</td>
-		<td>@connected-politics- </td>
-		<td><a href="https://twitter.com/liaoyenchieh">liaoyenchieh</a></td>
-		<td>Dublin Ireland </td>
-		<td>138</td>
-	</tr>
-	<tr>
-		<td>217</td>
-		<td>
 			<a href="https://github.com/dbafromthecold">
 				<img src="https://avatars.githubusercontent.com/u/28392876?s=72&v=4" width="24" alt="Avatar of dbafromthecold"> dbafromthecold
 			</a><br/>
@@ -2926,7 +2913,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/barreeeiroo">
 				<img src="https://avatars.githubusercontent.com/u/19251112?s=72&u=fd0e6c6e604071f743b5806b604af750ea9e0ac1&v=4" width="24" alt="Avatar of barreeeiroo"> barreeeiroo
@@ -2937,6 +2924,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/barreeeiroo">barreeeiroo</a></td>
 		<td>Dublin, IE</td>
 		<td>138</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/davidycliao">
+				<img src="https://avatars.githubusercontent.com/u/35374714?s=72&u=efe6f260220ef30778d48acddb256e3c49325c4a&v=4" width="24" alt="Avatar of davidycliao"> davidycliao
+			</a><br/>
+			David Liao
+		</td>
+		<td>@connected-politics- </td>
+		<td><a href="https://twitter.com/liaoyenchieh">liaoyenchieh</a></td>
+		<td>Dublin Ireland </td>
+		<td>137</td>
 	</tr>
 	<tr>
 		<td>219</td>
@@ -3968,6 +3968,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>298</td>
 		<td>
+			<a href="https://github.com/efazati">
+				<img src="https://avatars.githubusercontent.com/u/1132647?s=72&u=fbb2796cfa2a2fe03e68262bc5005838b32d4c7d&v=4" width="24" alt="Avatar of efazati"> efazati
+			</a><br/>
+			Mohammad Efazati
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dublin</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
 			<a href="https://github.com/edeleastar">
 				<img src="https://avatars.githubusercontent.com/u/557508?s=72&u=23d692436c17ed53ec407d13599f00dbca535d8a&v=4" width="24" alt="Avatar of edeleastar"> edeleastar
 			</a><br/>
@@ -3979,7 +3992,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/rcarriga">
 				<img src="https://avatars.githubusercontent.com/u/24252670?s=72&v=4" width="24" alt="Avatar of rcarriga"> rcarriga
@@ -3992,7 +4005,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/nating">
 				<img src="https://avatars.githubusercontent.com/u/16880181?s=72&u=bac22ffded8ffad34e0991c116ca03260f5a4d38&v=4" width="24" alt="Avatar of nating"> nating
@@ -4005,7 +4018,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/idontknowjs">
 				<img src="https://avatars.githubusercontent.com/u/53327173?s=72&u=4f6d8dcc54358e1bc776cb85b35ec8b74c4afa65&v=4" width="24" alt="Avatar of idontknowjs"> idontknowjs
@@ -4016,19 +4029,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>111</td>
-	</tr>
-	<tr>
-		<td>302</td>
-		<td>
-			<a href="https://github.com/efazati">
-				<img src="https://avatars.githubusercontent.com/u/1132647?s=72&u=fbb2796cfa2a2fe03e68262bc5005838b32d4c7d&v=4" width="24" alt="Avatar of efazati"> efazati
-			</a><br/>
-			Mohammad Efazati
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dublin</td>
-		<td>110</td>
 	</tr>
 	<tr>
 		<td>303</td>
@@ -7738,6 +7738,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>588</td>
 		<td>
+			<a href="https://github.com/wafuwafu13">
+				<img src="https://avatars.githubusercontent.com/u/50798936?s=72&u=e1e70b1504c70481938416f6d57495aa06a97711&v=4" width="24" alt="Avatar of wafuwafu13"> wafuwafu13
+			</a><br/>
+			Hirotaka Tagawa / wafuwafu13
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kyoto -> Dublin</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>
 			<a href="https://github.com/codingedward">
 				<img src="https://avatars.githubusercontent.com/u/15171489?s=72&u=223b429af018d03931a9ad7d7d3b8b1045481dd2&v=4" width="24" alt="Avatar of codingedward"> codingedward
 			</a><br/>
@@ -7749,7 +7762,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/globsecure">
 				<img src="https://avatars.githubusercontent.com/u/1958192?s=72&u=e2bc147c0ad1e840b455cffe18377725d50bfb62&v=4" width="24" alt="Avatar of globsecure"> globsecure
@@ -7762,7 +7775,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/henriqueconte">
 				<img src="https://avatars.githubusercontent.com/u/42253615?s=72&u=280ec2ef58f41c25cee43f9fc3f9375b158ffdac&v=4" width="24" alt="Avatar of henriqueconte"> henriqueconte
@@ -7775,7 +7788,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/diegocard">
 				<img src="https://avatars.githubusercontent.com/u/4444386?s=72&u=9657254e8cfb5ff13e42fb67033989e33d231379&v=4" width="24" alt="Avatar of diegocard"> diegocard
@@ -7788,7 +7801,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/iKristy">
 				<img src="https://avatars.githubusercontent.com/u/7912948?s=72&u=628f33a48205576f67eba023848b2e6da8d5a631&v=4" width="24" alt="Avatar of iKristy"> iKristy
@@ -7801,7 +7814,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/shanecurran">
 				<img src="https://avatars.githubusercontent.com/u/968388?s=72&u=e98b1da4a96a9f2b22a45379f55b90b3f3a6178f&v=4" width="24" alt="Avatar of shanecurran"> shanecurran
@@ -7811,19 +7824,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@evervault </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>594</td>
-		<td>
-			<a href="https://github.com/wafuwafu13">
-				<img src="https://avatars.githubusercontent.com/u/50798936?s=72&u=e1e70b1504c70481938416f6d57495aa06a97711&v=4" width="24" alt="Avatar of wafuwafu13"> wafuwafu13
-			</a><br/>
-			Hirotaka Tagawa / wafuwafu13
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kyoto -> Dublin</td>
 		<td>63</td>
 	</tr>
 	<tr>
