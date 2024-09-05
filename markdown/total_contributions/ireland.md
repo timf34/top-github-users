@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/9/5 3:28 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/9/5 4:30 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -2860,8 +2860,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ireland, Dublin</td>
-		<td>757</td>
-		<td>757</td>
+		<td>759</td>
+		<td>759</td>
 	</tr>
 	<tr>
 		<td>198</td>
@@ -3154,8 +3154,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Galway</td>
-		<td>688</td>
-		<td>688</td>
+		<td>689</td>
+		<td>689</td>
 	</tr>
 	<tr>
 		<td>219</td>
@@ -3476,8 +3476,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Cosd (cardano Stake Pool<br/>&<br/>Consultancy)<br/></td>
 		<td><a href="https://twitter.com/COSDpool">COSDpool</a></td>
 		<td>Dublin, IE</td>
-		<td>620</td>
-		<td>620</td>
+		<td>621</td>
+		<td>621</td>
 	</tr>
 	<tr>
 		<td>242</td>
@@ -4084,6 +4084,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>285</td>
 		<td>
+			<a href="https://github.com/daveearley">
+				<img src="https://avatars.githubusercontent.com/u/166798?s=72&u=2ab24c0f94ff82ee3d518e64998eb5fb489ed2cc&v=4" width="24" alt="Avatar of daveearley"> daveearley
+			</a><br/>
+			Dave Earley
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
+		<td>460</td>
+		<td>460</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
 			<a href="https://github.com/flaree">
 				<img src="https://avatars.githubusercontent.com/u/31554168?s=72&u=9d1c0c93b2f9080901265168b6ebd8a41fd49f15&v=4" width="24" alt="Avatar of flaree"> flaree
 			</a><br/>
@@ -4094,20 +4108,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Dublin</td>
 		<td>219</td>
 		<td>459</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
-			<a href="https://github.com/daveearley">
-				<img src="https://avatars.githubusercontent.com/u/166798?s=72&u=2ab24c0f94ff82ee3d518e64998eb5fb489ed2cc&v=4" width="24" alt="Avatar of daveearley"> daveearley
-			</a><br/>
-			Dave Earley
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>457</td>
-		<td>457</td>
 	</tr>
 	<tr>
 		<td>287</td>
@@ -4232,8 +4232,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@evervault </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>380</td>
-		<td>429</td>
+		<td>381</td>
+		<td>430</td>
 	</tr>
 	<tr>
 		<td>296</td>

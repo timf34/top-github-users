@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/5 3:28 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/5 4:30 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -804,7 +804,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ireland, Dublin</td>
-		<td>757</td>
+		<td>759</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -913,19 +913,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>63</td>
 		<td>
-			<a href="https://github.com/kassio">
-				<img src="https://avatars.githubusercontent.com/u/120483?s=72&u=3b74511fe2b4295acc5bd7a318ddbc2c8e88b537&v=4" width="24" alt="Avatar of kassio"> kassio
-			</a><br/>
-			Kassio Borges
-		</td>
-		<td>Gitlab </td>
-		<td><a href="https://twitter.com/kassioborgesm">kassioborgesm</a></td>
-		<td>Dublin, Ireland</td>
-		<td>688</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
 			<a href="https://github.com/lukel97">
 				<img src="https://avatars.githubusercontent.com/u/2488460?s=72&u=22c2f735a89edf1c366eb9df010ed448d73ee200&v=4" width="24" alt="Avatar of lukel97"> lukel97
 			</a><br/>
@@ -934,6 +921,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Galway</td>
+		<td>689</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/kassio">
+				<img src="https://avatars.githubusercontent.com/u/120483?s=72&u=3b74511fe2b4295acc5bd7a318ddbc2c8e88b537&v=4" width="24" alt="Avatar of kassio"> kassio
+			</a><br/>
+			Kassio Borges
+		</td>
+		<td>Gitlab </td>
+		<td><a href="https://twitter.com/kassioborgesm">kassioborgesm</a></td>
+		<td>Dublin, Ireland</td>
 		<td>688</td>
 	</tr>
 	<tr>
@@ -1077,7 +1077,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Cosd (cardano Stake Pool<br/>&<br/>Consultancy)<br/></td>
 		<td><a href="https://twitter.com/COSDpool">COSDpool</a></td>
 		<td>Dublin, IE</td>
-		<td>620</td>
+		<td>621</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1415,7 +1415,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>457</td>
+		<td>460</td>
 	</tr>
 	<tr>
 		<td>102</td>
@@ -1628,6 +1628,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>118</td>
 		<td>
+			<a href="https://github.com/butlerx">
+				<img src="https://avatars.githubusercontent.com/u/867930?s=72&u=3694677ee2edac04220768bc94d4e846cd2182a6&v=4" width="24" alt="Avatar of butlerx"> butlerx
+			</a><br/>
+			Cian Butler
+		</td>
+		<td>@evervault </td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
+		<td>381</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
 			<a href="https://github.com/darrenmeehan">
 				<img src="https://avatars.githubusercontent.com/u/411136?s=72&u=e79e8a15785c26cc27b51f25ba9b86022a63585a&v=4" width="24" alt="Avatar of darrenmeehan"> darrenmeehan
 			</a><br/>
@@ -1637,19 +1650,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/Darrenmeehan">Darrenmeehan</a></td>
 		<td>Ireland</td>
 		<td>381</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/butlerx">
-				<img src="https://avatars.githubusercontent.com/u/867930?s=72&u=3694677ee2edac04220768bc94d4e846cd2182a6&v=4" width="24" alt="Avatar of butlerx"> butlerx
-			</a><br/>
-			Cian Butler
-		</td>
-		<td>@evervault </td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>380</td>
 	</tr>
 	<tr>
 		<td>120</td>
