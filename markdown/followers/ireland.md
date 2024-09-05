@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/5 9:26 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/5 10:28 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -453,7 +453,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>652</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -1779,7 +1779,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>199</td>
+		<td>200</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -2031,6 +2031,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>149</td>
 		<td>
+			<a href="https://github.com/owenbcoding">
+				<img src="https://avatars.githubusercontent.com/u/43074374?s=72&u=832929ccc11e6817ad96630ba7c508a938a59719&v=4" width="24" alt="Avatar of owenbcoding"> owenbcoding
+			</a><br/>
+			owencodes
+		</td>
+		<td>Self Taught Developer Full<br/>Stack<br/></td>
+		<td><a href="https://twitter.com/eoghanb2">eoghanb2</a></td>
+		<td>Ireland </td>
+		<td>181</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
 			<a href="https://github.com/dgonzalez">
 				<img src="https://avatars.githubusercontent.com/u/123962?s=72&u=2936d1f0eb2c2375f8bae079e05782cb6382b63a&v=4" width="24" alt="Avatar of dgonzalez"> dgonzalez
 			</a><br/>
@@ -2042,7 +2055,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/carlosfilhou">
 				<img src="https://avatars.githubusercontent.com/u/22689796?s=72&u=fa05051e79800d9f6927e1ddda367d560adaf2e8&v=4" width="24" alt="Avatar of carlosfilhou"> carlosfilhou
@@ -2052,19 +2065,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/carlosfilhou">carlosfilhou</a></td>
 		<td>Dublin, Ireland</td>
-		<td>180</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/owenbcoding">
-				<img src="https://avatars.githubusercontent.com/u/43074374?s=72&u=832929ccc11e6817ad96630ba7c508a938a59719&v=4" width="24" alt="Avatar of owenbcoding"> owenbcoding
-			</a><br/>
-			owencodes
-		</td>
-		<td>Self Taught Developer Full<br/>Stack<br/></td>
-		<td><a href="https://twitter.com/eoghanb2">eoghanb2</a></td>
-		<td>Ireland </td>
 		<td>180</td>
 	</tr>
 	<tr>
@@ -10195,19 +10195,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>777</td>
 		<td>
-			<a href="https://github.com/Adam0Brien">
-				<img src="https://avatars.githubusercontent.com/u/74919798?s=72&u=e66ec524044f70e0c282969988fd8e4b20ac9ab2&v=4" width="24" alt="Avatar of Adam0Brien"> Adam0Brien
-			</a><br/>
-			Adam O'Brien
-		</td>
-		<td>Red Hat </td>
-		<td>No Twitter Username</td>
-		<td>Waterford, Ireland</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>778</td>
-		<td>
 			<a href="https://github.com/tharindupr">
 				<img src="https://avatars.githubusercontent.com/u/6535021?s=72&u=fa27c98b62869253d27e3253d4740c29d6020778&v=4" width="24" alt="Avatar of tharindupr"> tharindupr
 			</a><br/>
@@ -10216,6 +10203,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Nimbus Research Center </td>
 		<td>No Twitter Username</td>
 		<td>Cork, Ireland</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>778</td>
+		<td>
+			<a href="https://github.com/Adam0Brien">
+				<img src="https://avatars.githubusercontent.com/u/74919798?s=72&u=e66ec524044f70e0c282969988fd8e4b20ac9ab2&v=4" width="24" alt="Avatar of Adam0Brien"> Adam0Brien
+			</a><br/>
+			Adam O'Brien
+		</td>
+		<td>Red Hat </td>
+		<td>No Twitter Username</td>
+		<td>Waterford, Ireland</td>
 		<td>49</td>
 	</tr>
 	<tr>
