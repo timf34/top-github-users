@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/5 8:28 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/5 9:25 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -752,7 +752,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Draken.ee </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>410</td>
+		<td>411</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -3084,19 +3084,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>230</td>
 		<td>
-			<a href="https://github.com/gohabereg">
-				<img src="https://avatars.githubusercontent.com/u/23050529?s=72&u=ce39b7aa8ecea3b531605e2cca24e6bd1c5ce829&v=4" width="24" alt="Avatar of gohabereg"> gohabereg
-			</a><br/>
-			George Berezhnoy
-		</td>
-		<td>3d4medical From Elsevier </td>
-		<td><a href="https://twitter.com/gohabereg">gohabereg</a></td>
-		<td>Dublin</td>
-		<td>133</td>
-	</tr>
-	<tr>
-		<td>231</td>
-		<td>
 			<a href="https://github.com/cleder">
 				<img src="https://avatars.githubusercontent.com/u/1218010?s=72&v=4" width="24" alt="Avatar of cleder"> cleder
 			</a><br/>
@@ -3108,7 +3095,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/nhtlongcs">
 				<img src="https://avatars.githubusercontent.com/u/45918109?s=72&u=feefd904da29a3bd1907da2e44c656bf841c347b&v=4" width="24" alt="Avatar of nhtlongcs"> nhtlongcs
@@ -3121,7 +3108,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/lucasas">
 				<img src="https://avatars.githubusercontent.com/u/64874?s=72&u=db0ce351598d99a2a97306ea8b9bb448ea9ea946&v=4" width="24" alt="Avatar of lucasas"> lucasas
@@ -3132,6 +3119,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/lucasas">lucasas</a></td>
 		<td>Dublin</td>
 		<td>133</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
+			<a href="https://github.com/gohabereg">
+				<img src="https://avatars.githubusercontent.com/u/23050529?s=72&u=ce39b7aa8ecea3b531605e2cca24e6bd1c5ce829&v=4" width="24" alt="Avatar of gohabereg"> gohabereg
+			</a><br/>
+			George Berezhnoy
+		</td>
+		<td>3d4medical From Elsevier </td>
+		<td><a href="https://twitter.com/gohabereg">gohabereg</a></td>
+		<td>Dublin</td>
+		<td>132</td>
 	</tr>
 	<tr>
 		<td>234</td>
@@ -7140,19 +7140,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>542</td>
 		<td>
-			<a href="https://github.com/ArtyomZorin">
-				<img src="https://avatars.githubusercontent.com/u/3945334?s=72&u=e98fef939fe11b4c9fc2321ab6925498fd622c3a&v=4" width="24" alt="Avatar of ArtyomZorin"> ArtyomZorin
-			</a><br/>
-			Artyom Zorin
-		</td>
-		<td>Zorin Group </td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>543</td>
-		<td>
 			<a href="https://github.com/brunobandev">
 				<img src="https://avatars.githubusercontent.com/u/31326787?s=72&u=9875464b5ec90708d80161d3ecdac28fc9454fa4&v=4" width="24" alt="Avatar of brunobandev"> brunobandev
 			</a><br/>
@@ -7161,6 +7148,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/brunobandev">brunobandev</a></td>
 		<td>Ireland</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>543</td>
+		<td>
+			<a href="https://github.com/ArtyomZorin">
+				<img src="https://avatars.githubusercontent.com/u/3945334?s=72&u=e98fef939fe11b4c9fc2321ab6925498fd622c3a&v=4" width="24" alt="Avatar of ArtyomZorin"> ArtyomZorin
+			</a><br/>
+			Artyom Zorin
+		</td>
+		<td>Zorin Group </td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
 		<td>68</td>
 	</tr>
 	<tr>
