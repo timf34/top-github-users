@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/5 4:31 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/5 5:24 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -115,7 +115,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>10463</td>
+		<td>10464</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kilkenny, Ireland</td>
-		<td>4718</td>
+		<td>4720</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>4668</td>
+		<td>4672</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Https://www.global-e </td>
 		<td><a href="https://twitter.com/k0kada">k0kada</a></td>
 		<td>Dublin, Ireland</td>
-		<td>4360</td>
+		<td>4362</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -180,7 +180,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3592</td>
+		<td>3593</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -219,7 +219,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Hpcc Systems </td>
 		<td>No Twitter Username</td>
 		<td>Cork, Ireland</td>
-		<td>2426</td>
+		<td>2433</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -284,7 +284,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/thesimplekid">thesimplekid</a></td>
 		<td>Dublin, Ireland</td>
-		<td>1700</td>
+		<td>1701</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -349,7 +349,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Thought Collective </td>
 		<td>No Twitter Username</td>
 		<td>Belfast, Northern Ireland</td>
-		<td>1264</td>
+		<td>1267</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -583,7 +583,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@estuary </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>921</td>
+		<td>922</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -1454,7 +1454,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/orta">orta</a></td>
 		<td>Huddersfield / NYC / Dublin / Rio de Janeiro</td>
-		<td>443</td>
+		<td>445</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1896,7 +1896,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Developer & Content Creator<br/></td>
 		<td><a href="https://twitter.com/davidbattersby">davidbattersby</a></td>
 		<td>Ireland / Dubai</td>
-		<td>328</td>
+		<td>330</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -4020,6 +4020,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>302</td>
 		<td>
+			<a href="https://github.com/theWhiteFox">
+				<img src="https://avatars.githubusercontent.com/u/3177131?s=72&u=46fa921e97fb124f3e500a08accfb13f5f17626c&v=4" width="24" alt="Avatar of theWhiteFox"> theWhiteFox
+			</a><br/>
+			Stephen ♔ Ó Conchubhair
+		</td>
+		<td>Hybrid </td>
+		<td>No Twitter Username</td>
+		<td>Dublin</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
 			<a href="https://github.com/eugeneius">
 				<img src="https://avatars.githubusercontent.com/u/432189?s=72&u=506d1970ba73221b27c114e09ac18fc34a1dccc0&v=4" width="24" alt="Avatar of eugeneius"> eugeneius
 			</a><br/>
@@ -4031,7 +4044,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/pinkishincoloragain">
 				<img src="https://avatars.githubusercontent.com/u/39547381?s=72&u=6ba14b715019279980359ac919488b974f1dae02&v=4" width="24" alt="Avatar of pinkishincoloragain"> pinkishincoloragain
@@ -4044,7 +4057,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/tjFogarty">
 				<img src="https://avatars.githubusercontent.com/u/1191973?s=72&u=0eee7b78c3da5ef265ccf03942b147b0bd2b9f41&v=4" width="24" alt="Avatar of tjFogarty"> tjFogarty
@@ -4057,7 +4070,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/mikebrady">
 				<img src="https://avatars.githubusercontent.com/u/4265913?s=72&v=4" width="24" alt="Avatar of mikebrady"> mikebrady
@@ -4070,7 +4083,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/notdanhan">
 				<img src="https://avatars.githubusercontent.com/u/12559951?s=72&u=ca2c066279a0dd413c4a61cf489cd8247bcf8299&v=4" width="24" alt="Avatar of notdanhan"> notdanhan
@@ -4081,19 +4094,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Galway, Ireland</td>
 		<td>89</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
-			<a href="https://github.com/theWhiteFox">
-				<img src="https://avatars.githubusercontent.com/u/3177131?s=72&u=46fa921e97fb124f3e500a08accfb13f5f17626c&v=4" width="24" alt="Avatar of theWhiteFox"> theWhiteFox
-			</a><br/>
-			Stephen ♔ Ó Conchubhair
-		</td>
-		<td>Hybrid </td>
-		<td>No Twitter Username</td>
-		<td>Dublin</td>
-		<td>88</td>
 	</tr>
 	<tr>
 		<td>308</td>
@@ -4579,6 +4579,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>345</td>
 		<td>
+			<a href="https://github.com/Albert-W">
+				<img src="https://avatars.githubusercontent.com/u/21038139?s=72&u=9469d94f8537af113198e5b1268b5686ae146c1e&v=4" width="24" alt="Avatar of Albert-W"> Albert-W
+			</a><br/>
+			Albert
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
 			<a href="https://github.com/tranlenam">
 				<img src="https://avatars.githubusercontent.com/u/8007644?s=72&v=4" width="24" alt="Avatar of tranlenam"> tranlenam
 			</a><br/>
@@ -4590,7 +4603,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/ancatmara">
 				<img src="https://avatars.githubusercontent.com/u/15746067?s=72&u=c6d8ab4ce64f6ea6038e674c94978d54e84b2c65&v=4" width="24" alt="Avatar of ancatmara"> ancatmara
@@ -4603,7 +4616,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/regismesquita">
 				<img src="https://avatars.githubusercontent.com/u/113399?s=72&u=a5cbe93359356273a1b4662c82955ad99c67fe11&v=4" width="24" alt="Avatar of regismesquita"> regismesquita
@@ -4616,7 +4629,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/sambaiga">
 				<img src="https://avatars.githubusercontent.com/u/338440?s=72&u=288b27fe37723437d92595936622127cb074bf8d&v=4" width="24" alt="Avatar of sambaiga"> sambaiga
@@ -4627,19 +4640,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/sambaiga">sambaiga</a></td>
 		<td>Dublin, Ireland</td>
 		<td>74</td>
-	</tr>
-	<tr>
-		<td>349</td>
-		<td>
-			<a href="https://github.com/Albert-W">
-				<img src="https://avatars.githubusercontent.com/u/21038139?s=72&u=9469d94f8537af113198e5b1268b5686ae146c1e&v=4" width="24" alt="Avatar of Albert-W"> Albert-W
-			</a><br/>
-			Albert
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>73</td>
 	</tr>
 	<tr>
 		<td>350</td>
