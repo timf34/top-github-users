@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/5 4:30 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/5 5:25 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -193,7 +193,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Neat </td>
 		<td><a href="https://twitter.com/joreilly">joreilly</a></td>
 		<td>Galway, Ireland</td>
-		<td>2085</td>
+		<td>2086</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -960,7 +960,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/NetMentorTW">NetMentorTW</a></td>
 		<td>Ireland</td>
-		<td>363</td>
+		<td>364</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -991,19 +991,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>69</td>
 		<td>
-			<a href="https://github.com/tiemma">
-				<img src="https://avatars.githubusercontent.com/u/14789630?s=72&v=4" width="24" alt="Avatar of tiemma"> tiemma
-			</a><br/>
-			Bakman
-		</td>
-		<td>Twilio </td>
-		<td>No Twitter Username</td>
-		<td>Ireland</td>
-		<td>356</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
 			<a href="https://github.com/soub4i">
 				<img src="https://avatars.githubusercontent.com/u/11523791?s=72&u=301d92facd302c4e2399c05965b3d888c631ceea&v=4" width="24" alt="Avatar of soub4i"> soub4i
 			</a><br/>
@@ -1012,6 +999,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/soub4i">soub4i</a></td>
 		<td>Dublin Ireland</td>
+		<td>357</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
+			<a href="https://github.com/tiemma">
+				<img src="https://avatars.githubusercontent.com/u/14789630?s=72&v=4" width="24" alt="Avatar of tiemma"> tiemma
+			</a><br/>
+			Bakman
+		</td>
+		<td>Twilio </td>
+		<td>No Twitter Username</td>
+		<td>Ireland</td>
 		<td>356</td>
 	</tr>
 	<tr>
