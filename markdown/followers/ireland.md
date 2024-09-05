@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/5 11:24 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/5 12:44 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -1446,6 +1446,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>104</td>
 		<td>
+			<a href="https://github.com/Umutplvn">
+				<img src="https://avatars.githubusercontent.com/u/120283584?s=72&u=3b74637eb52ea18e15fdb409a1ee47a1e97e1aaa&v=4" width="24" alt="Avatar of Umutplvn"> Umutplvn
+			</a><br/>
+			Umut
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ireland</td>
+		<td>246</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
 			<a href="https://github.com/patrick-doyle">
 				<img src="https://avatars.githubusercontent.com/u/3487409?s=72&v=4" width="24" alt="Avatar of patrick-doyle"> patrick-doyle
 			</a><br/>
@@ -1455,19 +1468,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>246</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/Umutplvn">
-				<img src="https://avatars.githubusercontent.com/u/120283584?s=72&u=3b74637eb52ea18e15fdb409a1ee47a1e97e1aaa&v=4" width="24" alt="Avatar of Umutplvn"> Umutplvn
-			</a><br/>
-			Umut
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ireland</td>
-		<td>245</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -1701,7 +1701,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>209</td>
+		<td>208</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -9961,6 +9961,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>759</td>
 		<td>
+			<a href="https://github.com/tjFogarty">
+				<img src="https://avatars.githubusercontent.com/u/1191973?s=72&u=0eee7b78c3da5ef265ccf03942b147b0bd2b9f41&v=4" width="24" alt="Avatar of tjFogarty"> tjFogarty
+			</a><br/>
+			T.J. Fogarty
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tj_fogarty">tj_fogarty</a></td>
+		<td>Limerick & Waterford, Ireland</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>760</td>
+		<td>
 			<a href="https://github.com/patrickjquinn">
 				<img src="https://avatars.githubusercontent.com/u/1819370?s=72&u=241f7b24b68d615b15b489d4d15ea4fd89f18320&v=4" width="24" alt="Avatar of patrickjquinn"> patrickjquinn
 			</a><br/>
@@ -9972,7 +9985,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/mycourseresource">
 				<img src="https://avatars.githubusercontent.com/u/30241901?s=72&u=25aa55a7886dd819116fbfe6566c2bc66d53bb2c&v=4" width="24" alt="Avatar of mycourseresource"> mycourseresource
@@ -9985,7 +9998,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/BlueLort">
 				<img src="https://avatars.githubusercontent.com/u/25092751?s=72&u=e4bae4a75678f4fee10c85011bcca9ba8c62612c&v=4" width="24" alt="Avatar of BlueLort"> BlueLort
@@ -9998,7 +10011,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/mdsrosa">
 				<img src="https://avatars.githubusercontent.com/u/1862239?s=72&u=b450ec88d3456483788967124bc3c4e81d62e7ad&v=4" width="24" alt="Avatar of mdsrosa"> mdsrosa
@@ -10011,7 +10024,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/cesarvr">
 				<img src="https://avatars.githubusercontent.com/u/3899337?s=72&u=b0257a8faf19fc04ea92b97ba80de197d8d77608&v=4" width="24" alt="Avatar of cesarvr"> cesarvr
@@ -10024,7 +10037,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/hudo">
 				<img src="https://avatars.githubusercontent.com/u/121091?s=72&u=479a6e2bb08711bb9041c373003c9d18b68fe19e&v=4" width="24" alt="Avatar of hudo"> hudo
@@ -10037,7 +10050,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/Alone890926">
 				<img src="https://avatars.githubusercontent.com/u/84229534?s=72&v=4" width="24" alt="Avatar of Alone890926"> Alone890926
@@ -10050,7 +10063,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/Mistawes">
 				<img src="https://avatars.githubusercontent.com/u/16446441?s=72&v=4" width="24" alt="Avatar of Mistawes"> Mistawes
@@ -10063,7 +10076,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/laiavisa">
 				<img src="https://avatars.githubusercontent.com/u/18400294?s=72&u=71576203b76041c2d0600c8233fae6d7538ef5c2&v=4" width="24" alt="Avatar of laiavisa"> laiavisa
@@ -10076,7 +10089,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/freyamade">
 				<img src="https://avatars.githubusercontent.com/u/15925145?s=72&u=ab8c4c8094676ae934c3e1644d7d734350862c04&v=4" width="24" alt="Avatar of freyamade"> freyamade
@@ -10089,7 +10102,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/gunerkaanalkim">
 				<img src="https://avatars.githubusercontent.com/u/5802308?s=72&u=8b319fab1bc8e77bec3035abd675424254408ca4&v=4" width="24" alt="Avatar of gunerkaanalkim"> gunerkaanalkim
@@ -10102,7 +10115,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/tomcashman">
 				<img src="https://avatars.githubusercontent.com/u/1745420?s=72&u=2f227f8f70d691133364ac0c717ac1056ad22780&v=4" width="24" alt="Avatar of tomcashman"> tomcashman
@@ -10115,7 +10128,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/brrygrdn">
 				<img src="https://avatars.githubusercontent.com/u/896971?s=72&u=c297fb12df39556aa013be13bd5344476dea1bd3&v=4" width="24" alt="Avatar of brrygrdn"> brrygrdn
@@ -10128,7 +10141,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/meme-lord">
 				<img src="https://avatars.githubusercontent.com/u/17912559?s=72&u=a477d22a77298d8ced0313e26c27f82dfc84e835&v=4" width="24" alt="Avatar of meme-lord"> meme-lord
@@ -10141,7 +10154,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/ParadauxIO">
 				<img src="https://avatars.githubusercontent.com/u/65915629?s=72&u=6d7a7fede6e4e3d0c05acbc3442106ed8079d7e5&v=4" width="24" alt="Avatar of ParadauxIO"> ParadauxIO
@@ -10154,7 +10167,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/dhennessy">
 				<img src="https://avatars.githubusercontent.com/u/5327?s=72&v=4" width="24" alt="Avatar of dhennessy"> dhennessy
@@ -10167,7 +10180,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/mhwombat">
 				<img src="https://avatars.githubusercontent.com/u/1899200?s=72&v=4" width="24" alt="Avatar of mhwombat"> mhwombat
@@ -10180,7 +10193,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/CarolinaCobo">
 				<img src="https://avatars.githubusercontent.com/u/58437550?s=72&u=2e79345f71b4bdad1126520958a7ed804440fa7e&v=4" width="24" alt="Avatar of CarolinaCobo"> CarolinaCobo
@@ -10193,7 +10206,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/tharindupr">
 				<img src="https://avatars.githubusercontent.com/u/6535021?s=72&u=fa27c98b62869253d27e3253d4740c29d6020778&v=4" width="24" alt="Avatar of tharindupr"> tharindupr
@@ -10206,7 +10219,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/Adam0Brien">
 				<img src="https://avatars.githubusercontent.com/u/74919798?s=72&u=e66ec524044f70e0c282969988fd8e4b20ac9ab2&v=4" width="24" alt="Avatar of Adam0Brien"> Adam0Brien
@@ -10219,7 +10232,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/m1cr0man">
 				<img src="https://avatars.githubusercontent.com/u/3044438?s=72&u=9dd2d4b04441f32a0bd5e915b7be3eea2310900f&v=4" width="24" alt="Avatar of m1cr0man"> m1cr0man
@@ -10232,7 +10245,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/DeathHound6">
 				<img src="https://avatars.githubusercontent.com/u/44831187?s=72&v=4" width="24" alt="Avatar of DeathHound6"> DeathHound6
@@ -10245,7 +10258,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/NielMc">
 				<img src="https://avatars.githubusercontent.com/u/19390534?s=72&u=01e09646e87b072c68f2e231380f6cf4fcf1ca63&v=4" width="24" alt="Avatar of NielMc"> NielMc
@@ -10258,7 +10271,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/jdrumgoole">
 				<img src="https://avatars.githubusercontent.com/u/97294?s=72&u=d75c6cbb6746c85969201a49ccc471a2873dee79&v=4" width="24" alt="Avatar of jdrumgoole"> jdrumgoole
@@ -10268,19 +10281,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Joedrumgoole.com </td>
 		<td><a href="https://twitter.com/jdrumgoole">jdrumgoole</a></td>
 		<td>Dublin</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>783</td>
-		<td>
-			<a href="https://github.com/tjFogarty">
-				<img src="https://avatars.githubusercontent.com/u/1191973?s=72&u=0eee7b78c3da5ef265ccf03942b147b0bd2b9f41&v=4" width="24" alt="Avatar of tjFogarty"> tjFogarty
-			</a><br/>
-			T.J. Fogarty
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tj_fogarty">tj_fogarty</a></td>
-		<td>Limerick & Waterford, Ireland</td>
 		<td>49</td>
 	</tr>
 	<tr>
