@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/5 2:26 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/5 3:27 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -453,7 +453,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>655</td>
+		<td>656</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -2513,7 +2513,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>186</td>
 		<td>
 			<a href="https://github.com/BDQ">
-				<img src="https://avatars.githubusercontent.com/u/22470?s=72&u=85d5b6cb8e6396d9081ef1c4c6f3e33e72f44258&v=4" width="24" alt="Avatar of BDQ"> BDQ
+				<img src="https://avatars.githubusercontent.com/u/22470?s=72&u=126cb0f23477d6abade94981f2600b35215e06dc&v=4" width="24" alt="Avatar of BDQ"> BDQ
 			</a><br/>
 			Brian Quinn
 		</td>
