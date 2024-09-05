@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/5 1:30 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/5 2:50 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -128,7 +128,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kilkenny, Ireland</td>
-		<td>4713</td>
+		<td>4716</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -180,7 +180,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3587</td>
+		<td>3588</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -934,7 +934,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Galway</td>
-		<td>687</td>
+		<td>688</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -4735,6 +4735,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>357</td>
 		<td>
+			<a href="https://github.com/cdpierse">
+				<img src="https://avatars.githubusercontent.com/u/8831892?s=72&u=bf6734a618b4e99cf673a1c5725d39cca8db3d31&v=4" width="24" alt="Avatar of cdpierse"> cdpierse
+			</a><br/>
+			Charles
+		</td>
+		<td>@weaviate </td>
+		<td><a href="https://twitter.com/cdpierse">cdpierse</a></td>
+		<td>Ireland</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
 			<a href="https://github.com/YoungForest">
 				<img src="https://avatars.githubusercontent.com/u/13612111?s=72&u=8fd2d5dde7c694e1d298c0f3b7eb553e95578451&v=4" width="24" alt="Avatar of YoungForest"> YoungForest
 			</a><br/>
@@ -4746,7 +4759,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/davidnugent2425">
 				<img src="https://avatars.githubusercontent.com/u/46567169?s=72&u=bded6e315be2db7571e1ebd31a848dd2cb41d45c&v=4" width="24" alt="Avatar of davidnugent2425"> davidnugent2425
@@ -4759,7 +4772,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/Barros42">
 				<img src="https://avatars.githubusercontent.com/u/34094891?s=72&u=c29e2316758b45190da3b87111fd61af6f38bd66&v=4" width="24" alt="Avatar of Barros42"> Barros42
@@ -4772,7 +4785,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/thanhsonng">
 				<img src="https://avatars.githubusercontent.com/u/28614996?s=72&u=0b080b86391f74de22eb5a7cf3400122f343f093&v=4" width="24" alt="Avatar of thanhsonng"> thanhsonng
@@ -4785,7 +4798,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/nsheridan">
 				<img src="https://avatars.githubusercontent.com/u/422772?s=72&u=c13316d0003eb6c5d19cb9105da713db4ef8785f&v=4" width="24" alt="Avatar of nsheridan"> nsheridan
@@ -4798,7 +4811,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/garmeeh">
 				<img src="https://avatars.githubusercontent.com/u/13333582?s=72&u=d3ba402afc7aed784257d5262834f8576a9e59d2&v=4" width="24" alt="Avatar of garmeeh"> garmeeh
@@ -4808,19 +4821,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Https://www.getretro </td>
 		<td><a href="https://twitter.com/garmeeh">garmeeh</a></td>
 		<td>Wexford, Ireland</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>363</td>
-		<td>
-			<a href="https://github.com/cdpierse">
-				<img src="https://avatars.githubusercontent.com/u/8831892?s=72&u=bf6734a618b4e99cf673a1c5725d39cca8db3d31&v=4" width="24" alt="Avatar of cdpierse"> cdpierse
-			</a><br/>
-			Charles
-		</td>
-		<td>@weaviate </td>
-		<td><a href="https://twitter.com/cdpierse">cdpierse</a></td>
-		<td>Ireland</td>
 		<td>64</td>
 	</tr>
 	<tr>
