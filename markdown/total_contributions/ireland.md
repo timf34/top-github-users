@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/9/6 5:27 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/9/6 6:34 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -130,8 +130,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>4698</td>
-		<td>5473</td>
+		<td>4700</td>
+		<td>5475</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -201,7 +201,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>8</td>
-		<td>4488</td>
+		<td>4491</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -480,8 +480,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Hpcc Systems </td>
 		<td>No Twitter Username</td>
 		<td>Cork, Ireland</td>
-		<td>2434</td>
-		<td>2526</td>
+		<td>2438</td>
+		<td>2530</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -5736,6 +5736,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>403</td>
 		<td>
+			<a href="https://github.com/dmitriz">
+				<img src="https://avatars.githubusercontent.com/u/2513193?s=72&v=4" width="24" alt="Avatar of dmitriz"> dmitriz
+			</a><br/>
+			Dmitri Zaitsev
+		</td>
+		<td>Trinity College Dublin </td>
+		<td><a href="https://twitter.com/dmitri145">dmitri145</a></td>
+		<td>Dublin, Ireland</td>
+		<td>185</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>
 			<a href="https://github.com/alexlopesbr">
 				<img src="https://avatars.githubusercontent.com/u/26312866?s=72&u=e3f52d014d0dee7f18f32b2efae09797015c6ea5&v=4" width="24" alt="Avatar of alexlopesbr"> alexlopesbr
 			</a><br/>
@@ -5746,20 +5760,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Ireland</td>
 		<td>132</td>
 		<td>219</td>
-	</tr>
-	<tr>
-		<td>404</td>
-		<td>
-			<a href="https://github.com/dmitriz">
-				<img src="https://avatars.githubusercontent.com/u/2513193?s=72&v=4" width="24" alt="Avatar of dmitriz"> dmitriz
-			</a><br/>
-			Dmitri Zaitsev
-		</td>
-		<td>Trinity College Dublin </td>
-		<td><a href="https://twitter.com/dmitri145">dmitri145</a></td>
-		<td>Dublin, Ireland</td>
-		<td>184</td>
-		<td>218</td>
 	</tr>
 	<tr>
 		<td>405</td>
@@ -10384,6 +10384,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>735</td>
 		<td>
+			<a href="https://github.com/chekoduadarsh">
+				<img src="https://avatars.githubusercontent.com/u/26855534?s=72&u=d15863c726d6f8a960be7ef9390a76d37824e494&v=4" width="24" alt="Avatar of chekoduadarsh"> chekoduadarsh
+			</a><br/>
+			ADARSH C
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dublin</td>
+		<td>8</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>736</td>
+		<td>
 			<a href="https://github.com/chico">
 				<img src="https://avatars.githubusercontent.com/u/16405?s=72&v=4" width="24" alt="Avatar of chico"> chico
 			</a><br/>
@@ -10396,7 +10410,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/hashABCD">
 				<img src="https://avatars.githubusercontent.com/u/54419319?s=72&u=09af1143d656e661c144070b3b8a0cee0cf61d51&v=4" width="24" alt="Avatar of hashABCD"> hashABCD
@@ -10410,7 +10424,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/masbahnana">
 				<img src="https://avatars.githubusercontent.com/u/35573203?s=72&u=1d94a4e248e903db1966775f6e12afd4490ed7ca&v=4" width="24" alt="Avatar of masbahnana"> masbahnana
@@ -10424,7 +10438,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/AdrianRossouw">
 				<img src="https://avatars.githubusercontent.com/u/115108?s=72&u=daf7938deebadb92968953cb429069a716117369&v=4" width="24" alt="Avatar of AdrianRossouw"> AdrianRossouw
@@ -10438,7 +10452,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/daishisystems">
 				<img src="https://avatars.githubusercontent.com/u/3216734?s=72&v=4" width="24" alt="Avatar of daishisystems"> daishisystems
@@ -10452,7 +10466,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/codinguncut">
 				<img src="https://avatars.githubusercontent.com/u/2112583?s=72&u=a9c68589a2906ace2dbf873e85526c6b23a17a8a&v=4" width="24" alt="Avatar of codinguncut"> codinguncut
@@ -10466,7 +10480,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/gagern">
 				<img src="https://avatars.githubusercontent.com/u/190759?s=72&v=4" width="24" alt="Avatar of gagern"> gagern
@@ -10477,20 +10491,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>9</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>742</td>
-		<td>
-			<a href="https://github.com/chekoduadarsh">
-				<img src="https://avatars.githubusercontent.com/u/26855534?s=72&u=d15863c726d6f8a960be7ef9390a76d37824e494&v=4" width="24" alt="Avatar of chekoduadarsh"> chekoduadarsh
-			</a><br/>
-			ADARSH C
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dublin</td>
-		<td>7</td>
 		<td>9</td>
 	</tr>
 	<tr>

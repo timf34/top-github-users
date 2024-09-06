@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/6 5:27 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/6 6:34 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -453,7 +453,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>666</td>
+		<td>668</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -1420,6 +1420,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>102</td>
 		<td>
+			<a href="https://github.com/Umutplvn">
+				<img src="https://avatars.githubusercontent.com/u/120283584?s=72&u=3b74637eb52ea18e15fdb409a1ee47a1e97e1aaa&v=4" width="24" alt="Avatar of Umutplvn"> Umutplvn
+			</a><br/>
+			Umut
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ireland</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
 			<a href="https://github.com/greymd">
 				<img src="https://avatars.githubusercontent.com/u/3874767?s=72&u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" width="24" alt="Avatar of greymd"> greymd
 			</a><br/>
@@ -1431,7 +1444,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>248</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/gupta-utkarsh">
 				<img src="https://avatars.githubusercontent.com/u/15570642?s=72&u=266fc5d07de6e3ce06bcdef95e118704543f4a01&v=4" width="24" alt="Avatar of gupta-utkarsh"> gupta-utkarsh
@@ -1442,19 +1455,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/utkarshg97">utkarshg97</a></td>
 		<td>Dublin, Ireland</td>
 		<td>248</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/Umutplvn">
-				<img src="https://avatars.githubusercontent.com/u/120283584?s=72&u=3b74637eb52ea18e15fdb409a1ee47a1e97e1aaa&v=4" width="24" alt="Avatar of Umutplvn"> Umutplvn
-			</a><br/>
-			Umut
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ireland</td>
-		<td>247</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -9233,19 +9233,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>703</td>
 		<td>
-			<a href="https://github.com/chico">
-				<img src="https://avatars.githubusercontent.com/u/16405?s=72&v=4" width="24" alt="Avatar of chico"> chico
-			</a><br/>
-			Chico Charlesworth
-		</td>
-		<td>@codeandrobots, @dot-cli </td>
-		<td><a href="https://twitter.com/ccharlesworth">ccharlesworth</a></td>
-		<td>Dublin, Ireland</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>704</td>
-		<td>
 			<a href="https://github.com/chekoduadarsh">
 				<img src="https://avatars.githubusercontent.com/u/26855534?s=72&u=d15863c726d6f8a960be7ef9390a76d37824e494&v=4" width="24" alt="Avatar of chekoduadarsh"> chekoduadarsh
 			</a><br/>
@@ -9254,6 +9241,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>704</td>
+		<td>
+			<a href="https://github.com/chico">
+				<img src="https://avatars.githubusercontent.com/u/16405?s=72&v=4" width="24" alt="Avatar of chico"> chico
+			</a><br/>
+			Chico Charlesworth
+		</td>
+		<td>@codeandrobots, @dot-cli </td>
+		<td><a href="https://twitter.com/ccharlesworth">ccharlesworth</a></td>
+		<td>Dublin, Ireland</td>
 		<td>54</td>
 	</tr>
 	<tr>
