@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/9/6 1:30 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/9/6 2:50 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -312,8 +312,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3596</td>
-		<td>3654</td>
+		<td>3597</td>
+		<td>3655</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -3476,8 +3476,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Cosd (cardano Stake Pool<br/>&<br/>Consultancy)<br/></td>
 		<td><a href="https://twitter.com/COSDpool">COSDpool</a></td>
 		<td>Dublin, IE</td>
-		<td>625</td>
-		<td>625</td>
+		<td>626</td>
+		<td>626</td>
 	</tr>
 	<tr>
 		<td>242</td>
@@ -4078,8 +4078,8 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@lumahealthhq </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>469</td>
-		<td>469</td>
+		<td>470</td>
+		<td>470</td>
 	</tr>
 	<tr>
 		<td>285</td>
@@ -5605,7 +5605,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>24</td>
-		<td>230</td>
+		<td>231</td>
 	</tr>
 	<tr>
 		<td>394</td>
@@ -5750,6 +5750,20 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>404</td>
 		<td>
+			<a href="https://github.com/dmitriz">
+				<img src="https://avatars.githubusercontent.com/u/2513193?s=72&v=4" width="24" alt="Avatar of dmitriz"> dmitriz
+			</a><br/>
+			Dmitri Zaitsev
+		</td>
+		<td>Trinity College Dublin </td>
+		<td><a href="https://twitter.com/dmitri145">dmitri145</a></td>
+		<td>Dublin, Ireland</td>
+		<td>184</td>
+		<td>218</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
 			<a href="https://github.com/MattBCoding">
 				<img src="https://avatars.githubusercontent.com/u/83982659?s=72&u=a5b387d6e533fb3aebf3b2a3d309e8db5c45c744&v=4" width="24" alt="Avatar of MattBCoding"> MattBCoding
 			</a><br/>
@@ -5762,7 +5776,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>218</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/conoro">
 				<img src="https://avatars.githubusercontent.com/u/586566?s=72&u=0656e52498230c2ef044e1835f229ea0398c8ff8&v=4" width="24" alt="Avatar of conoro"> conoro
@@ -5776,7 +5790,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>217</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/oisdk">
 				<img src="https://avatars.githubusercontent.com/u/12214150?s=72&u=e9a1cf01723860f1a2742d51463165f83509677e&v=4" width="24" alt="Avatar of oisdk"> oisdk
@@ -5790,7 +5804,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/Ruubia">
 				<img src="https://avatars.githubusercontent.com/u/24586658?s=72&u=5873dc24c53e006893c33e2a8efd45722c1f10b5&v=4" width="24" alt="Avatar of Ruubia"> Ruubia
@@ -5802,20 +5816,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Dublin</td>
 		<td>215</td>
 		<td>216</td>
-	</tr>
-	<tr>
-		<td>408</td>
-		<td>
-			<a href="https://github.com/dmitriz">
-				<img src="https://avatars.githubusercontent.com/u/2513193?s=72&v=4" width="24" alt="Avatar of dmitriz"> dmitriz
-			</a><br/>
-			Dmitri Zaitsev
-		</td>
-		<td>Trinity College Dublin </td>
-		<td><a href="https://twitter.com/dmitri145">dmitri145</a></td>
-		<td>Dublin, Ireland</td>
-		<td>180</td>
-		<td>214</td>
 	</tr>
 	<tr>
 		<td>409</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/6 1:30 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/6 2:50 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -180,7 +180,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>3596</td>
+		<td>3597</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1064,7 +1064,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Cosd (cardano Stake Pool<br/>&<br/>Consultancy)<br/></td>
 		<td><a href="https://twitter.com/COSDpool">COSDpool</a></td>
 		<td>Dublin, IE</td>
-		<td>625</td>
+		<td>626</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1376,7 +1376,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@lumahealthhq </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>469</td>
+		<td>470</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -2824,6 +2824,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>210</td>
 		<td>
+			<a href="https://github.com/dmitriz">
+				<img src="https://avatars.githubusercontent.com/u/2513193?s=72&v=4" width="24" alt="Avatar of dmitriz"> dmitriz
+			</a><br/>
+			Dmitri Zaitsev
+		</td>
+		<td>Trinity College Dublin </td>
+		<td><a href="https://twitter.com/dmitri145">dmitri145</a></td>
+		<td>Dublin, Ireland</td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
 			<a href="https://github.com/Baughn">
 				<img src="https://avatars.githubusercontent.com/u/45811?s=72&u=1c29602b361c8bb64c7aba50493292d5dcb9603e&v=4" width="24" alt="Avatar of Baughn"> Baughn
 			</a><br/>
@@ -2835,7 +2848,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/caoimhebyrne">
 				<img src="https://avatars.githubusercontent.com/u/71222289?s=72&u=b3fc6dbe94cf7ecf8e38ce6c3c33edaa67f29b05&v=4" width="24" alt="Avatar of caoimhebyrne"> caoimhebyrne
@@ -2848,7 +2861,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/WamWooWam">
 				<img src="https://avatars.githubusercontent.com/u/11337731?s=72&u=fedee2bc359b591dddbbdea298df6400d7ed5b37&v=4" width="24" alt="Avatar of WamWooWam"> WamWooWam
@@ -2858,19 +2871,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Wan Kerr Co. Ltd.<br/></td>
 		<td><a href="https://twitter.com/da_wamwoowam">da_wamwoowam</a></td>
 		<td>Nowhere, Ireland</td>
-		<td>180</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
-			<a href="https://github.com/dmitriz">
-				<img src="https://avatars.githubusercontent.com/u/2513193?s=72&v=4" width="24" alt="Avatar of dmitriz"> dmitriz
-			</a><br/>
-			Dmitri Zaitsev
-		</td>
-		<td>Trinity College Dublin </td>
-		<td><a href="https://twitter.com/dmitri145">dmitri145</a></td>
-		<td>Dublin, Ireland</td>
 		<td>180</td>
 	</tr>
 	<tr>
