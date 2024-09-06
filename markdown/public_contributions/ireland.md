@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/6 9:26 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/6 10:24 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -154,7 +154,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Https://www.global-e </td>
 		<td><a href="https://twitter.com/k0kada">k0kada</a></td>
 		<td>Dublin, Ireland</td>
-		<td>4399</td>
+		<td>4401</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -310,7 +310,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Adapt Centre </td>
 		<td><a href="https://twitter.com/bact">bact</a></td>
 		<td>Dublin and Bangkok</td>
-		<td>1471</td>
+		<td>1472</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -661,7 +661,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Affix Api </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>853</td>
+		<td>854</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -908,7 +908,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Google </td>
 		<td><a href="https://twitter.com/tunetheweb">tunetheweb</a></td>
 		<td>Cork, Ireland</td>
-		<td>722</td>
+		<td>723</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1077,7 +1077,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Nofrixion </td>
 		<td><a href="https://twitter.com/sipsorcery">sipsorcery</a></td>
 		<td>Dublin, Ireland</td>
-		<td>625</td>
+		<td>626</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -4319,6 +4319,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>325</td>
 		<td>
+			<a href="https://github.com/Albert-W">
+				<img src="https://avatars.githubusercontent.com/u/21038139?s=72&u=9469d94f8537af113198e5b1268b5686ae146c1e&v=4" width="24" alt="Avatar of Albert-W"> Albert-W
+			</a><br/>
+			Albert
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>
 			<a href="https://github.com/Arnklit">
 				<img src="https://avatars.githubusercontent.com/u/4955051?s=72&u=ea50b38ba8a7c99b99e7ee08274abc3a70de9cc1&v=4" width="24" alt="Avatar of Arnklit"> Arnklit
 			</a><br/>
@@ -4330,7 +4343,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/afshinm">
 				<img src="https://avatars.githubusercontent.com/u/314326?s=72&u=52f46d8f4b79b2bf567f3e33b7997fe5f13b5394&v=4" width="24" alt="Avatar of afshinm"> afshinm
@@ -4343,7 +4356,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/Flavien">
 				<img src="https://avatars.githubusercontent.com/u/296540?s=72&u=8c4592c83fc4358df6d35d8e1687a96e82f0d65a&v=4" width="24" alt="Avatar of Flavien"> Flavien
@@ -4351,19 +4364,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 			Flavien Charlon
 		</td>
 		<td>Toast </td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/Albert-W">
-				<img src="https://avatars.githubusercontent.com/u/21038139?s=72&u=9469d94f8537af113198e5b1268b5686ae146c1e&v=4" width="24" alt="Avatar of Albert-W"> Albert-W
-			</a><br/>
-			Albert
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>80</td>
