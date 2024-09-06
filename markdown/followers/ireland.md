@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/6 4:32 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/6 5:23 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -453,7 +453,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Federico.elia.majo@g </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
-		<td>680</td>
+		<td>681</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -2135,19 +2135,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>157</td>
 		<td>
-			<a href="https://github.com/414owen">
-				<img src="https://avatars.githubusercontent.com/u/1714287?s=72&u=93187ed62b15898176b27206523e994bce339e2a&v=4" width="24" alt="Avatar of 414owen"> 414owen
-			</a><br/>
-			Owen Shepherd
-		</td>
-		<td>Principled Fp Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Ireland</td>
-		<td>174</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
 			<a href="https://github.com/aldanor">
 				<img src="https://avatars.githubusercontent.com/u/2418513?s=72&v=4" width="24" alt="Avatar of aldanor"> aldanor
 			</a><br/>
@@ -2156,6 +2143,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/414owen">
+				<img src="https://avatars.githubusercontent.com/u/1714287?s=72&u=93187ed62b15898176b27206523e994bce339e2a&v=4" width="24" alt="Avatar of 414owen"> 414owen
+			</a><br/>
+			Owen Shepherd
+		</td>
+		<td>Principled Fp Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Ireland</td>
 		<td>174</td>
 	</tr>
 	<tr>
@@ -4280,6 +4280,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>322</td>
 		<td>
+			<a href="https://github.com/mspronesti">
+				<img src="https://avatars.githubusercontent.com/u/44113430?s=72&u=34bdaacaeb2880e40fb4b07897c481771c6de544&v=4" width="24" alt="Avatar of mspronesti"> mspronesti
+			</a><br/>
+			Massimiliano Pronesti
+		</td>
+		<td>Ibm Research </td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
 			<a href="https://github.com/davidkirwan">
 				<img src="https://avatars.githubusercontent.com/u/1700165?s=72&u=44e1740a3cde03556380ff12b272b22ea1b1400e&v=4" width="24" alt="Avatar of davidkirwan"> davidkirwan
 			</a><br/>
@@ -4291,7 +4304,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/MathieuBuisson">
 				<img src="https://avatars.githubusercontent.com/u/10233108?s=72&u=430b52ddebd82a3286c4910bfa3deebdda7f6903&v=4" width="24" alt="Avatar of MathieuBuisson"> MathieuBuisson
@@ -4304,7 +4317,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/SibeeshVenu">
 				<img src="https://avatars.githubusercontent.com/u/4262147?s=72&u=efd99b8d4cf6929c6981f9d62776c6b8ccf45c2d&v=4" width="24" alt="Avatar of SibeeshVenu"> SibeeshVenu
@@ -4317,7 +4330,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/RafaeL-Malaquias">
 				<img src="https://avatars.githubusercontent.com/u/91689939?s=72&u=c8a1967c66aac352cc28bc7e6958dc1b6be40573&v=4" width="24" alt="Avatar of RafaeL-Malaquias"> RafaeL-Malaquias
@@ -4330,7 +4343,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/laurakalbag">
 				<img src="https://avatars.githubusercontent.com/u/266663?s=72&u=71396b5a97e36a937e7e1d1014571f039fab95c3&v=4" width="24" alt="Avatar of laurakalbag"> laurakalbag
@@ -4340,19 +4353,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@small-tech @statelyai  </td>
 		<td>No Twitter Username</td>
 		<td>Bray, Ireland</td>
-		<td>104</td>
-	</tr>
-	<tr>
-		<td>327</td>
-		<td>
-			<a href="https://github.com/mspronesti">
-				<img src="https://avatars.githubusercontent.com/u/44113430?s=72&u=34bdaacaeb2880e40fb4b07897c481771c6de544&v=4" width="24" alt="Avatar of mspronesti"> mspronesti
-			</a><br/>
-			Massimiliano Pronesti
-		</td>
-		<td>Ibm Research </td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
 		<td>104</td>
 	</tr>
 	<tr>
