@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2024/9/6 3:28 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
+The `number of followers` of users in Ireland on `2024/9/6 4:29 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick` `Wicklow` `Meath` `Louth` `Limerick`.
 
 There are `1 countries` and `9 cities` can be found [here](https://github.com/timf34/top-github-users).
 
@@ -1311,7 +1311,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>Darkersmile </td>
 		<td>No Twitter Username</td>
 		<td>Cork</td>
-		<td>267</td>
+		<td>268</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -10299,19 +10299,6 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>785</td>
 		<td>
-			<a href="https://github.com/viniciuschiele">
-				<img src="https://avatars.githubusercontent.com/u/392495?s=72&u=db324615a48c9e21044da5516ad60dc9bfbfee7c&v=4" width="24" alt="Avatar of viniciuschiele"> viniciuschiele
-			</a><br/>
-			Vinicius Chiele
-		</td>
-		<td>Hubspot </td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>786</td>
-		<td>
 			<a href="https://github.com/That3Percent">
 				<img src="https://avatars.githubusercontent.com/u/51517236?s=72&u=820b8f4df8a2a84be921f83ff2df54bbd3d5ab3f&v=4" width="24" alt="Avatar of That3Percent"> That3Percent
 			</a><br/>
@@ -10320,6 +10307,19 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@edgeandnode </td>
 		<td><a href="https://twitter.com/LudemeGames">LudemeGames</a></td>
 		<td>Dublin, CA</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>786</td>
+		<td>
+			<a href="https://github.com/viniciuschiele">
+				<img src="https://avatars.githubusercontent.com/u/392495?s=72&u=db324615a48c9e21044da5516ad60dc9bfbfee7c&v=4" width="24" alt="Avatar of viniciuschiele"> viniciuschiele
+			</a><br/>
+			Vinicius Chiele
+		</td>
+		<td>Hubspot </td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
 		<td>49</td>
 	</tr>
 	<tr>
